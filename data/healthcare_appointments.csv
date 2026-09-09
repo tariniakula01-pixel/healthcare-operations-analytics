@@ -1,0 +1,1201 @@
+appointment_id,appointment_date,specialty,location,provider,appointment_type,patient_type,insurance_type,scheduled_lead_days,wait_time_minutes,appointment_status,appointment_duration_minutes,patient_satisfaction_score
+APT100447,2025-01-01,Primary Care,Baltimore,Provider A,Follow-up,Returning,Self-Pay,58,78,Completed,30,2.9
+APT100649,2025-01-01,Cardiology,Baltimore,Provider G,Telehealth,New,Medicaid,24,57,Completed,30,3.1
+APT100678,2025-01-01,Neurology,Catonsville,Provider G,Annual Checkup,Returning,Medicaid,28,31,Completed,60,4.8
+APT100756,2025-01-01,Pediatrics,Columbia,Provider C,New Patient,Returning,Commercial,25,66,Completed,60,3.7
+APT100849,2025-01-01,Pediatrics,Columbia,Provider C,Annual Checkup,Returning,Medicaid,15,60,Completed,30,4.1
+APT100992,2025-01-01,Pediatrics,Baltimore,Provider B,Follow-up,New,Commercial,37,5,Completed,30,4.9
+APT101029,2025-01-01,Primary Care,Columbia,Provider B,Urgent Care,Returning,Medicare,13,17,Completed,30,3.8
+APT101165,2025-01-01,Primary Care,Baltimore,Provider I,Telehealth,Returning,Commercial,47,89,Completed,30,2.1
+APT100064,2025-01-02,Pediatrics,Towson,Provider J,Urgent Care,Returning,Medicaid,30,5,Completed,30,4.0
+APT100207,2025-01-02,Primary Care,Catonsville,Provider H,Telehealth,Returning,Medicaid,25,24,Completed,30,4.1
+APT100264,2025-01-02,Neurology,Towson,Provider A,Annual Checkup,New,Medicare,16,63,Completed,30,3.3
+APT100896,2025-01-03,Neurology,Columbia,Provider H,New Patient,New,Commercial,3,34,Completed,15,5.0
+APT100326,2025-01-04,Orthopedics,Baltimore,Provider I,Annual Checkup,Returning,Medicaid,33,0,Cancelled,45,
+APT100497,2025-01-04,Primary Care,Baltimore,Provider A,New Patient,Returning,Self-Pay,10,70,Completed,60,3.3
+APT100949,2025-01-04,Primary Care,Columbia,Provider F,New Patient,Returning,Self-Pay,51,77,Completed,15,3.3
+APT100969,2025-01-04,Primary Care,Columbia,Provider F,Follow-up,Returning,Medicare,60,41,Completed,15,4.2
+APT100129,2025-01-05,Pediatrics,Catonsville,Provider B,New Patient,Returning,Self-Pay,38,0,Cancelled,15,
+APT100416,2025-01-05,Dermatology,Baltimore,Provider E,Annual Checkup,New,Medicare,3,68,Completed,30,3.6
+APT100614,2025-01-05,Pediatrics,Columbia,Provider G,New Patient,Returning,Commercial,19,0,No-show,15,
+APT100721,2025-01-05,Cardiology,Towson,Provider E,New Patient,New,Commercial,55,48,Completed,45,4.2
+APT100843,2025-01-05,Pediatrics,Catonsville,Provider B,Telehealth,New,Medicare,16,28,Completed,30,4.6
+APT101045,2025-01-05,Primary Care,Catonsville,Provider A,Annual Checkup,Returning,Medicare,54,29,Completed,30,3.6
+APT101092,2025-01-05,Pediatrics,Columbia,Provider B,Follow-up,Returning,Commercial,35,0,Cancelled,45,
+APT100335,2025-01-06,Pediatrics,Catonsville,Provider I,Follow-up,Returning,Medicare,47,29,Completed,30,3.9
+APT100742,2025-01-06,Cardiology,Baltimore,Provider G,New Patient,Returning,Self-Pay,48,5,Completed,45,5.0
+APT100935,2025-01-06,Orthopedics,Baltimore,Provider F,Telehealth,Returning,Medicare,60,0,No-show,30,
+APT100965,2025-01-06,Cardiology,Columbia,Provider F,Annual Checkup,New,Commercial,17,49,Completed,45,3.6
+APT100606,2025-01-07,Primary Care,Towson,Provider H,Follow-up,Returning,Commercial,8,13,Completed,60,5.0
+APT100895,2025-01-07,Primary Care,Catonsville,Provider I,Follow-up,Returning,Medicaid,19,0,No-show,30,
+APT100688,2025-01-08,Cardiology,Towson,Provider A,Annual Checkup,Returning,Commercial,9,26,Completed,30,4.0
+APT100829,2025-01-08,Primary Care,Catonsville,Provider I,Urgent Care,Returning,Medicare,31,11,Completed,30,5.0
+APT100876,2025-01-08,Neurology,Towson,Provider G,New Patient,Returning,Medicare,15,0,Cancelled,60,
+APT100098,2025-01-09,Neurology,Towson,Provider D,Urgent Care,New,Medicaid,22,0,Cancelled,45,
+APT100270,2025-01-09,Primary Care,Baltimore,Provider D,Follow-up,Returning,Commercial,19,79,Completed,15,3.2
+APT100602,2025-01-09,Primary Care,Baltimore,Provider D,Follow-up,Returning,Medicare,32,0,Cancelled,30,
+APT100485,2025-01-10,Neurology,Catonsville,Provider E,Telehealth,Returning,Commercial,6,75,Completed,30,3.0
+APT100715,2025-01-10,Primary Care,Baltimore,Provider A,Telehealth,Returning,Medicare,8,57,Completed,30,3.8
+APT101004,2025-01-10,Pediatrics,Baltimore,Provider F,Annual Checkup,Returning,Medicaid,44,50,Completed,15,2.8
+APT101091,2025-01-10,Pediatrics,Catonsville,Provider D,Annual Checkup,New,Commercial,41,0,No-show,15,
+APT101123,2025-01-11,Neurology,Towson,Provider G,Follow-up,Returning,Self-Pay,51,81,Completed,30,2.1
+APT100519,2025-01-12,Primary Care,Columbia,Provider E,Telehealth,New,Commercial,3,0,Cancelled,45,
+APT100682,2025-01-12,Neurology,Towson,Provider I,New Patient,New,Medicare,52,22,Completed,30,5.0
+APT100852,2025-01-12,Dermatology,Towson,Provider H,Urgent Care,Returning,Commercial,32,43,Completed,30,3.4
+APT100152,2025-01-13,Pediatrics,Baltimore,Provider I,Telehealth,Returning,Commercial,1,36,Completed,45,3.8
+APT100379,2025-01-13,Pediatrics,Towson,Provider I,Follow-up,Returning,Medicare,43,52,Completed,45,4.1
+APT100555,2025-01-13,Cardiology,Baltimore,Provider F,Annual Checkup,Returning,Medicare,33,20,Completed,60,4.7
+APT100917,2025-01-13,Neurology,Columbia,Provider G,New Patient,New,Medicaid,14,31,Completed,30,4.9
+APT101008,2025-01-13,Primary Care,Towson,Provider F,Urgent Care,Returning,Medicaid,36,7,Completed,45,4.5
+APT100051,2025-01-14,Orthopedics,Towson,Provider F,Follow-up,Returning,Self-Pay,25,59,Completed,30,3.4
+APT100676,2025-01-14,Primary Care,Columbia,Provider D,Follow-up,Returning,Commercial,4,46,Completed,30,4.0
+APT100886,2025-01-14,Primary Care,Columbia,Provider J,Telehealth,New,Medicare,60,65,Completed,30,2.7
+APT100892,2025-01-14,Pediatrics,Catonsville,Provider F,Telehealth,New,Medicaid,28,80,Completed,45,2.5
+APT101058,2025-01-14,Primary Care,Towson,Provider A,New Patient,Returning,Commercial,7,0,Cancelled,45,
+APT100093,2025-01-15,Neurology,Columbia,Provider I,Annual Checkup,Returning,Medicare,6,65,Completed,15,3.7
+APT100135,2025-01-15,Primary Care,Towson,Provider J,Urgent Care,Returning,Commercial,33,87,Completed,30,3.1
+APT100904,2025-01-15,Primary Care,Columbia,Provider J,Follow-up,New,Medicare,45,27,Completed,30,4.1
+APT101078,2025-01-15,Pediatrics,Towson,Provider D,Follow-up,Returning,Medicare,22,84,Completed,30,3.3
+APT101104,2025-01-15,Orthopedics,Towson,Provider H,Follow-up,Returning,Commercial,41,46,Completed,15,3.8
+APT100498,2025-01-16,Pediatrics,Towson,Provider D,New Patient,Returning,Commercial,41,0,Cancelled,60,
+APT100330,2025-01-17,Cardiology,Columbia,Provider H,Urgent Care,Returning,Medicare,33,0,Cancelled,30,
+APT101184,2025-01-17,Primary Care,Towson,Provider I,Telehealth,Returning,Commercial,16,0,No-show,60,
+APT100353,2025-01-18,Cardiology,Towson,Provider F,Follow-up,Returning,Medicaid,23,73,Completed,15,3.8
+APT100567,2025-01-19,Neurology,Catonsville,Provider I,Follow-up,New,Medicare,31,54,Completed,45,3.0
+APT100637,2025-01-19,Orthopedics,Catonsville,Provider J,Follow-up,New,Commercial,17,38,Completed,30,3.9
+APT100384,2025-01-20,Neurology,Towson,Provider A,Annual Checkup,New,Medicaid,32,0,Cancelled,30,
+APT100672,2025-01-20,Orthopedics,Baltimore,Provider F,New Patient,Returning,Medicare,14,61,Completed,45,3.0
+APT100988,2025-01-20,Neurology,Towson,Provider D,Telehealth,Returning,Medicare,14,24,Completed,60,4.8
+APT100007,2025-01-21,Primary Care,Baltimore,Provider J,Telehealth,Returning,Commercial,5,0,Cancelled,45,
+APT100045,2025-01-21,Orthopedics,Catonsville,Provider A,Follow-up,Returning,Commercial,57,0,Cancelled,30,
+APT100026,2025-01-22,Pediatrics,Baltimore,Provider F,Annual Checkup,Returning,Commercial,9,10,Completed,30,4.5
+APT100308,2025-01-22,Pediatrics,Towson,Provider G,New Patient,New,Medicare,30,69,Completed,30,2.9
+APT100847,2025-01-22,Neurology,Baltimore,Provider J,Urgent Care,Returning,Commercial,16,54,Completed,30,3.5
+APT100483,2025-01-23,Neurology,Baltimore,Provider E,New Patient,New,Medicaid,29,83,Completed,30,3.6
+APT100748,2025-01-23,Cardiology,Catonsville,Provider E,Telehealth,Returning,Medicare,16,29,Completed,30,4.0
+APT101063,2025-01-23,Orthopedics,Towson,Provider H,Follow-up,Returning,Commercial,10,19,Completed,30,4.2
+APT101130,2025-01-23,Primary Care,Baltimore,Provider H,Telehealth,Returning,Medicare,37,23,Completed,45,4.9
+APT100581,2025-01-25,Cardiology,Baltimore,Provider G,New Patient,Returning,Medicare,16,51,Completed,15,3.4
+APT100915,2025-01-25,Neurology,Towson,Provider J,Follow-up,Returning,Commercial,27,67,Completed,60,3.0
+APT100919,2025-01-25,Primary Care,Columbia,Provider J,Urgent Care,New,Medicare,4,0,No-show,30,
+APT101178,2025-01-25,Neurology,Baltimore,Provider I,Telehealth,Returning,Commercial,2,71,Completed,15,3.8
+APT101191,2025-01-25,Primary Care,Baltimore,Provider F,New Patient,Returning,Self-Pay,42,67,Completed,15,3.5
+APT100376,2025-01-26,Primary Care,Baltimore,Provider J,Annual Checkup,Returning,Medicaid,21,0,No-show,15,
+APT100873,2025-01-26,Orthopedics,Baltimore,Provider C,Telehealth,Returning,Self-Pay,7,0,No-show,30,
+APT100978,2025-01-26,Orthopedics,Towson,Provider E,Annual Checkup,Returning,Medicaid,16,30,Completed,15,3.8
+APT100317,2025-01-27,Primary Care,Catonsville,Provider H,Follow-up,Returning,Commercial,40,61,Completed,30,3.7
+APT100110,2025-01-28,Pediatrics,Catonsville,Provider H,Telehealth,Returning,Commercial,5,0,No-show,30,
+APT100165,2025-01-28,Orthopedics,Catonsville,Provider F,Annual Checkup,Returning,Medicare,2,90,Completed,30,2.1
+APT100697,2025-01-28,Primary Care,Catonsville,Provider D,Follow-up,Returning,Commercial,16,23,Completed,30,5.0
+APT100887,2025-01-28,Dermatology,Baltimore,Provider E,New Patient,Returning,Medicare,38,18,Completed,30,4.9
+APT100907,2025-01-28,Primary Care,Towson,Provider A,Annual Checkup,Returning,Medicaid,36,19,Completed,30,4.5
+APT100150,2025-01-29,Orthopedics,Catonsville,Provider F,New Patient,Returning,Medicare,6,31,Completed,30,4.6
+APT100615,2025-01-29,Primary Care,Columbia,Provider A,Telehealth,Returning,Commercial,46,74,Completed,30,3.1
+APT101153,2025-01-29,Pediatrics,Baltimore,Provider G,Follow-up,Returning,Medicare,57,0,No-show,60,
+APT100802,2025-01-30,Neurology,Baltimore,Provider A,Urgent Care,New,Medicare,55,63,Completed,30,3.3
+APT100960,2025-01-31,Primary Care,Towson,Provider A,Telehealth,New,Medicare,40,87,Completed,30,3.2
+APT100115,2025-02-02,Cardiology,Baltimore,Provider C,Follow-up,Returning,Commercial,7,11,Completed,30,4.9
+APT100306,2025-02-02,Neurology,Towson,Provider I,Telehealth,New,Commercial,24,0,Cancelled,30,
+APT100508,2025-02-02,Cardiology,Baltimore,Provider B,Urgent Care,Returning,Medicare,19,39,Completed,30,3.5
+APT100762,2025-02-03,Cardiology,Towson,Provider I,Telehealth,Returning,Medicaid,41,50,Completed,30,4.6
+APT100815,2025-02-03,Primary Care,Towson,Provider I,New Patient,Returning,Commercial,50,75,Completed,60,3.4
+APT100855,2025-02-03,Cardiology,Catonsville,Provider D,Urgent Care,Returning,Commercial,46,0,No-show,45,
+APT100928,2025-02-03,Dermatology,Towson,Provider J,Urgent Care,Returning,Medicare,31,8,Completed,45,5.0
+APT100059,2025-02-04,Primary Care,Towson,Provider H,Follow-up,Returning,Medicaid,50,0,No-show,30,
+APT100124,2025-02-04,Cardiology,Columbia,Provider I,Telehealth,Returning,Medicare,13,66,Completed,45,3.1
+APT100327,2025-02-04,Neurology,Baltimore,Provider A,Follow-up,Returning,Medicare,14,72,Completed,30,2.6
+APT100524,2025-02-04,Pediatrics,Catonsville,Provider D,Urgent Care,New,Medicare,45,35,Completed,45,4.1
+APT100709,2025-02-04,Primary Care,Catonsville,Provider I,New Patient,Returning,Medicaid,18,49,Completed,60,4.0
+APT101028,2025-02-04,Primary Care,Catonsville,Provider F,Follow-up,New,Medicare,8,8,Completed,30,5.0
+APT100151,2025-02-05,Orthopedics,Towson,Provider I,Urgent Care,New,Medicaid,25,0,Cancelled,60,
+APT100382,2025-02-05,Primary Care,Baltimore,Provider F,Urgent Care,New,Commercial,49,56,Completed,30,4.2
+APT100546,2025-02-05,Cardiology,Catonsville,Provider D,Telehealth,New,Commercial,38,78,Completed,30,2.5
+APT100963,2025-02-05,Cardiology,Columbia,Provider E,Urgent Care,New,Commercial,55,8,Completed,30,5.0
+APT100268,2025-02-06,Orthopedics,Catonsville,Provider J,Telehealth,Returning,Medicaid,57,21,Completed,30,4.6
+APT100338,2025-02-06,Primary Care,Columbia,Provider F,Telehealth,Returning,Commercial,53,89,Completed,45,2.2
+APT100552,2025-02-06,Primary Care,Towson,Provider B,Telehealth,New,Commercial,39,49,Completed,45,3.4
+APT100311,2025-02-07,Orthopedics,Catonsville,Provider J,Follow-up,New,Commercial,19,0,Cancelled,30,
+APT100996,2025-02-07,Pediatrics,Baltimore,Provider C,Annual Checkup,Returning,Medicare,56,0,No-show,30,
+APT101018,2025-02-07,Dermatology,Towson,Provider F,Follow-up,New,Medicaid,46,37,Completed,30,4.9
+APT101084,2025-02-07,Cardiology,Towson,Provider J,New Patient,Returning,Medicaid,60,32,Completed,30,4.4
+APT101127,2025-02-07,Primary Care,Towson,Provider E,Urgent Care,New,Medicaid,25,44,Completed,30,3.8
+APT100250,2025-02-08,Primary Care,Columbia,Provider D,Telehealth,New,Commercial,35,0,No-show,45,
+APT100373,2025-02-08,Primary Care,Baltimore,Provider H,New Patient,Returning,Medicare,1,63,Completed,45,3.7
+APT100477,2025-02-08,Dermatology,Towson,Provider A,New Patient,Returning,Commercial,55,29,Completed,30,4.0
+APT100586,2025-02-08,Neurology,Catonsville,Provider A,Annual Checkup,Returning,Medicaid,34,26,Completed,30,4.0
+APT100638,2025-02-08,Orthopedics,Columbia,Provider F,Telehealth,Returning,Commercial,31,0,Cancelled,45,
+APT100766,2025-02-08,Dermatology,Baltimore,Provider F,Follow-up,Returning,Medicare,57,18,Completed,45,4.6
+APT100909,2025-02-08,Orthopedics,Towson,Provider I,Annual Checkup,Returning,Commercial,20,25,Completed,30,5.0
+APT101072,2025-02-08,Neurology,Columbia,Provider J,Telehealth,Returning,Commercial,40,8,Completed,30,4.9
+APT100961,2025-02-09,Neurology,Columbia,Provider C,New Patient,Returning,Medicaid,38,32,Completed,30,4.2
+APT100091,2025-02-10,Primary Care,Catonsville,Provider G,Annual Checkup,Returning,Commercial,11,81,Completed,30,2.8
+APT100109,2025-02-10,Neurology,Catonsville,Provider I,Annual Checkup,Returning,Commercial,58,59,Completed,45,3.2
+APT100700,2025-02-10,Dermatology,Catonsville,Provider D,Follow-up,New,Commercial,33,40,Completed,60,4.0
+APT100137,2025-02-11,Pediatrics,Columbia,Provider J,Follow-up,Returning,Commercial,41,41,Completed,30,4.0
+APT100589,2025-02-11,Pediatrics,Columbia,Provider I,Follow-up,Returning,Self-Pay,24,0,Cancelled,30,
+APT100933,2025-02-11,Neurology,Catonsville,Provider A,Annual Checkup,New,Medicaid,14,45,Completed,30,3.9
+APT101052,2025-02-11,Cardiology,Towson,Provider H,Telehealth,New,Commercial,58,87,Completed,45,1.8
+APT101077,2025-02-11,Neurology,Baltimore,Provider E,New Patient,New,Self-Pay,46,0,Cancelled,45,
+APT100516,2025-02-12,Neurology,Catonsville,Provider B,Follow-up,Returning,Commercial,56,0,Cancelled,30,
+APT100821,2025-02-12,Pediatrics,Catonsville,Provider I,Urgent Care,New,Self-Pay,8,85,Completed,30,3.1
+APT100071,2025-02-13,Pediatrics,Catonsville,Provider D,Annual Checkup,Returning,Commercial,4,49,Completed,30,3.8
+APT100167,2025-02-13,Pediatrics,Towson,Provider J,Follow-up,New,Medicare,56,80,Completed,60,2.4
+APT100517,2025-02-13,Neurology,Catonsville,Provider F,Urgent Care,New,Medicaid,5,44,Completed,30,4.9
+APT100657,2025-02-13,Pediatrics,Towson,Provider E,Urgent Care,Returning,Commercial,55,0,Cancelled,45,
+APT100161,2025-02-14,Primary Care,Catonsville,Provider H,New Patient,Returning,Commercial,60,12,Completed,60,4.5
+APT100334,2025-02-15,Primary Care,Columbia,Provider E,New Patient,New,Commercial,46,0,Cancelled,30,
+APT100708,2025-02-15,Pediatrics,Baltimore,Provider H,Telehealth,Returning,Medicaid,16,46,Completed,45,3.5
+APT100854,2025-02-15,Primary Care,Catonsville,Provider D,New Patient,Returning,Commercial,47,52,Completed,60,4.0
+APT100422,2025-02-16,Orthopedics,Baltimore,Provider A,Annual Checkup,New,Medicare,36,0,No-show,30,
+APT100471,2025-02-16,Primary Care,Columbia,Provider C,Annual Checkup,Returning,Self-Pay,16,0,Cancelled,30,
+APT100673,2025-02-16,Neurology,Baltimore,Provider G,Follow-up,New,Commercial,33,83,Completed,30,2.9
+APT100862,2025-02-16,Dermatology,Towson,Provider I,Urgent Care,New,Commercial,10,0,Cancelled,30,
+APT100991,2025-02-16,Neurology,Baltimore,Provider H,Urgent Care,New,Medicare,44,0,No-show,30,
+APT101109,2025-02-16,Cardiology,Baltimore,Provider H,Annual Checkup,New,Medicare,5,78,Completed,30,3.7
+APT100116,2025-02-17,Cardiology,Catonsville,Provider I,Urgent Care,New,Medicare,42,0,Cancelled,45,
+APT100453,2025-02-17,Pediatrics,Catonsville,Provider J,New Patient,Returning,Medicaid,29,14,Completed,60,5.0
+APT100870,2025-02-17,Pediatrics,Towson,Provider J,Follow-up,Returning,Medicare,40,0,No-show,30,
+APT100030,2025-02-18,Neurology,Baltimore,Provider D,New Patient,Returning,Commercial,46,21,Completed,30,4.7
+APT100329,2025-02-18,Primary Care,Catonsville,Provider E,Urgent Care,New,Medicare,11,70,Completed,30,3.3
+APT100062,2025-02-19,Primary Care,Catonsville,Provider A,Follow-up,Returning,Commercial,37,71,Completed,30,3.1
+APT100037,2025-02-20,Orthopedics,Baltimore,Provider D,Telehealth,Returning,Commercial,39,66,Completed,30,3.9
+APT100314,2025-02-20,Pediatrics,Columbia,Provider A,Follow-up,New,Commercial,19,32,Completed,45,4.6
+APT100395,2025-02-20,Pediatrics,Towson,Provider D,New Patient,Returning,Commercial,53,58,Completed,30,3.7
+APT100757,2025-02-20,Primary Care,Columbia,Provider J,Urgent Care,Returning,Commercial,13,31,Completed,30,4.6
+APT100805,2025-02-20,Primary Care,Columbia,Provider I,Annual Checkup,Returning,Self-Pay,17,33,Completed,30,4.5
+APT100841,2025-02-20,Cardiology,Baltimore,Provider I,New Patient,New,Medicare,25,64,Completed,30,3.3
+APT101152,2025-02-20,Primary Care,Baltimore,Provider G,Telehealth,New,Medicare,44,0,No-show,30,
+APT100143,2025-02-21,Primary Care,Baltimore,Provider H,Urgent Care,Returning,Commercial,49,53,Completed,30,3.7
+APT100198,2025-02-21,Orthopedics,Catonsville,Provider F,Annual Checkup,Returning,Medicaid,30,70,Completed,30,3.0
+APT100576,2025-02-21,Neurology,Baltimore,Provider B,Annual Checkup,Returning,Commercial,51,45,Completed,60,3.5
+APT100055,2025-02-22,Pediatrics,Towson,Provider E,Urgent Care,Returning,Medicare,14,84,Completed,30,3.8
+APT100086,2025-02-22,Primary Care,Towson,Provider J,Annual Checkup,New,Medicare,26,83,Completed,30,2.6
+APT100216,2025-02-22,Cardiology,Catonsville,Provider B,Annual Checkup,New,Commercial,31,75,Completed,30,2.7
+APT100413,2025-02-22,Primary Care,Baltimore,Provider F,New Patient,Returning,Medicaid,44,0,Cancelled,45,
+APT100582,2025-02-22,Dermatology,Towson,Provider A,Urgent Care,Returning,Commercial,24,9,Completed,45,4.8
+APT100749,2025-02-22,Dermatology,Towson,Provider F,Urgent Care,Returning,Medicare,52,44,Completed,15,4.0
+APT100817,2025-02-22,Pediatrics,Baltimore,Provider I,Follow-up,Returning,Commercial,59,82,Completed,30,3.6
+APT100065,2025-02-23,Dermatology,Catonsville,Provider C,Annual Checkup,Returning,Commercial,27,0,Cancelled,45,
+APT100210,2025-02-23,Primary Care,Columbia,Provider D,New Patient,New,Medicaid,30,56,Completed,30,3.0
+APT100278,2025-02-23,Neurology,Columbia,Provider A,Follow-up,Returning,Medicaid,56,62,Completed,30,3.5
+APT100356,2025-02-23,Neurology,Towson,Provider I,Follow-up,Returning,Commercial,5,9,Completed,45,4.3
+APT100410,2025-02-23,Pediatrics,Baltimore,Provider I,Urgent Care,Returning,Commercial,58,0,No-show,30,
+APT100679,2025-02-23,Primary Care,Columbia,Provider C,Urgent Care,Returning,Commercial,43,28,Completed,30,4.3
+APT100774,2025-02-23,Cardiology,Baltimore,Provider C,New Patient,Returning,Self-Pay,50,17,Completed,45,4.9
+APT100039,2025-02-24,Primary Care,Columbia,Provider C,Urgent Care,Returning,Commercial,10,39,Completed,30,3.9
+APT101167,2025-02-24,Dermatology,Baltimore,Provider B,Annual Checkup,New,Commercial,3,27,Completed,30,4.3
+APT100866,2025-02-25,Primary Care,Columbia,Provider J,Follow-up,Returning,Medicare,5,0,No-show,45,
+APT100884,2025-02-25,Primary Care,Columbia,Provider J,Follow-up,Returning,Commercial,43,0,No-show,30,
+APT100585,2025-02-26,Neurology,Towson,Provider C,Follow-up,New,Medicaid,3,48,Completed,30,3.8
+APT100357,2025-02-27,Neurology,Towson,Provider E,Annual Checkup,Returning,Self-Pay,43,63,Completed,30,3.3
+APT100403,2025-02-27,Orthopedics,Columbia,Provider A,Follow-up,New,Medicaid,42,22,Completed,30,4.3
+APT100437,2025-02-27,Primary Care,Catonsville,Provider D,New Patient,New,Medicare,41,0,Cancelled,30,
+APT100445,2025-02-27,Cardiology,Columbia,Provider C,Follow-up,New,Commercial,26,41,Completed,30,4.1
+APT100645,2025-02-27,Cardiology,Towson,Provider A,New Patient,Returning,Commercial,4,16,Completed,60,3.8
+APT100656,2025-02-27,Pediatrics,Towson,Provider H,Follow-up,New,Medicaid,31,56,Completed,30,3.0
+APT100031,2025-02-28,Cardiology,Columbia,Provider G,Urgent Care,Returning,Commercial,56,35,Completed,30,3.5
+APT100263,2025-03-01,Neurology,Catonsville,Provider D,Follow-up,New,Medicaid,4,0,Cancelled,30,
+APT100414,2025-03-01,Primary Care,Catonsville,Provider D,New Patient,Returning,Commercial,1,0,No-show,30,
+APT101032,2025-03-01,Primary Care,Towson,Provider D,Annual Checkup,New,Commercial,60,0,Cancelled,30,
+APT100839,2025-03-02,Primary Care,Towson,Provider D,Follow-up,Returning,Commercial,9,33,Completed,30,4.6
+APT100871,2025-03-02,Primary Care,Catonsville,Provider D,Follow-up,New,Medicaid,3,77,Completed,30,3.3
+APT100117,2025-03-03,Dermatology,Towson,Provider B,Follow-up,Returning,Medicare,48,0,Cancelled,30,
+APT100162,2025-03-03,Pediatrics,Towson,Provider F,Annual Checkup,Returning,Medicaid,43,33,Completed,45,4.0
+APT100562,2025-03-03,Primary Care,Baltimore,Provider B,New Patient,Returning,Self-Pay,55,0,No-show,30,
+APT100974,2025-03-03,Primary Care,Columbia,Provider G,New Patient,New,Commercial,8,7,Completed,60,4.7
+APT101048,2025-03-03,Primary Care,Columbia,Provider D,Follow-up,Returning,Commercial,1,20,Completed,45,4.1
+APT100102,2025-03-04,Pediatrics,Baltimore,Provider G,Urgent Care,New,Self-Pay,37,0,Cancelled,30,
+APT100139,2025-03-04,Dermatology,Catonsville,Provider J,Follow-up,New,Commercial,57,34,Completed,30,3.7
+APT100398,2025-03-04,Dermatology,Catonsville,Provider H,Annual Checkup,Returning,Commercial,17,0,No-show,30,
+APT100732,2025-03-04,Primary Care,Catonsville,Provider G,Follow-up,Returning,Medicaid,39,0,Cancelled,45,
+APT101064,2025-03-04,Primary Care,Columbia,Provider E,New Patient,New,Self-Pay,2,27,Completed,30,5.0
+APT101176,2025-03-04,Cardiology,Towson,Provider F,Urgent Care,Returning,Commercial,35,71,Completed,15,2.9
+APT101198,2025-03-04,Primary Care,Catonsville,Provider I,Follow-up,New,Medicaid,43,34,Completed,45,4.1
+APT100095,2025-03-06,Primary Care,Catonsville,Provider G,Telehealth,Returning,Commercial,54,83,Completed,45,2.4
+APT100513,2025-03-06,Dermatology,Columbia,Provider J,Telehealth,Returning,Medicare,33,37,Completed,60,4.2
+APT100724,2025-03-06,Primary Care,Towson,Provider C,Follow-up,Returning,Commercial,18,64,Completed,45,3.1
+APT100159,2025-03-07,Neurology,Catonsville,Provider D,New Patient,Returning,Commercial,49,65,Completed,45,3.4
+APT100785,2025-03-07,Primary Care,Baltimore,Provider B,Telehealth,Returning,Commercial,5,0,Cancelled,30,
+APT100921,2025-03-08,Dermatology,Towson,Provider E,Follow-up,New,Commercial,52,0,No-show,45,
+APT101075,2025-03-08,Dermatology,Baltimore,Provider I,Telehealth,Returning,Commercial,23,71,Completed,45,3.1
+APT100299,2025-03-09,Dermatology,Baltimore,Provider D,Telehealth,Returning,Medicare,8,84,Completed,30,3.0
+APT100920,2025-03-09,Pediatrics,Catonsville,Provider G,Follow-up,Returning,Commercial,39,67,Completed,45,2.4
+APT100459,2025-03-10,Pediatrics,Towson,Provider H,Telehealth,Returning,Commercial,52,33,Completed,30,4.3
+APT100470,2025-03-10,Orthopedics,Catonsville,Provider G,Urgent Care,New,Commercial,44,62,Completed,30,5.0
+APT100579,2025-03-10,Dermatology,Towson,Provider A,Follow-up,New,Medicare,42,66,Completed,30,3.1
+APT100814,2025-03-10,Cardiology,Baltimore,Provider A,New Patient,Returning,Medicare,56,48,Completed,30,4.2
+APT101022,2025-03-10,Pediatrics,Catonsville,Provider A,Follow-up,Returning,Medicaid,6,87,Completed,45,2.6
+APT101121,2025-03-10,Primary Care,Columbia,Provider H,Follow-up,New,Medicaid,39,90,Completed,15,2.9
+APT100628,2025-03-11,Cardiology,Towson,Provider B,Annual Checkup,New,Commercial,20,48,Completed,45,3.4
+APT100947,2025-03-11,Pediatrics,Baltimore,Provider G,Urgent Care,Returning,Medicare,45,87,Completed,30,2.9
+APT100005,2025-03-13,Primary Care,Baltimore,Provider C,Annual Checkup,Returning,Medicare,27,48,Completed,45,4.2
+APT100765,2025-03-13,Primary Care,Towson,Provider G,Follow-up,Returning,Commercial,33,52,Completed,60,3.3
+APT100859,2025-03-14,Neurology,Catonsville,Provider I,Follow-up,New,Medicaid,56,0,No-show,45,
+APT100603,2025-03-15,Pediatrics,Baltimore,Provider I,Telehealth,New,Medicare,21,0,Cancelled,30,
+APT100282,2025-03-16,Neurology,Towson,Provider I,Follow-up,Returning,Medicare,36,46,Completed,30,4.0
+APT100536,2025-03-16,Neurology,Baltimore,Provider J,Follow-up,Returning,Medicaid,28,52,Completed,30,4.0
+APT100786,2025-03-16,Pediatrics,Baltimore,Provider A,Telehealth,Returning,Commercial,14,58,Completed,60,3.5
+APT100968,2025-03-16,Primary Care,Catonsville,Provider F,Follow-up,Returning,Medicare,43,0,Cancelled,30,
+APT101180,2025-03-16,Pediatrics,Catonsville,Provider F,Urgent Care,Returning,Medicaid,47,87,Completed,30,2.8
+APT100463,2025-03-17,Primary Care,Columbia,Provider E,New Patient,New,Medicaid,49,88,Completed,30,2.7
+APT100571,2025-03-17,Primary Care,Towson,Provider C,Urgent Care,New,Medicare,1,16,Completed,30,4.5
+APT100601,2025-03-17,Neurology,Catonsville,Provider I,New Patient,New,Medicare,33,62,Completed,30,3.0
+APT101027,2025-03-17,Primary Care,Baltimore,Provider F,Telehealth,Returning,Commercial,48,0,Cancelled,30,
+APT100755,2025-03-19,Orthopedics,Towson,Provider J,New Patient,New,Medicare,27,83,Completed,30,2.8
+APT100856,2025-03-19,Primary Care,Baltimore,Provider J,Annual Checkup,Returning,Commercial,8,25,Completed,30,5.0
+APT100888,2025-03-19,Neurology,Towson,Provider E,Urgent Care,Returning,Medicare,40,0,No-show,60,
+APT101047,2025-03-19,Primary Care,Columbia,Provider B,Annual Checkup,Returning,Commercial,22,68,Completed,30,3.0
+APT100664,2025-03-21,Cardiology,Baltimore,Provider B,Telehealth,New,Medicare,38,0,Cancelled,45,
+APT100061,2025-03-22,Primary Care,Columbia,Provider F,Telehealth,Returning,Commercial,27,15,Completed,30,4.3
+APT100104,2025-03-22,Neurology,Towson,Provider C,New Patient,New,Commercial,27,60,Completed,30,3.9
+APT100204,2025-03-22,Pediatrics,Columbia,Provider B,Telehealth,Returning,Medicare,22,27,Completed,60,5.0
+APT100806,2025-03-22,Orthopedics,Baltimore,Provider C,New Patient,Returning,Medicare,23,90,Completed,30,2.4
+APT100711,2025-03-23,Neurology,Baltimore,Provider G,New Patient,Returning,Commercial,18,33,Completed,30,3.0
+APT100752,2025-03-24,Neurology,Baltimore,Provider F,Annual Checkup,Returning,Medicare,12,82,Completed,30,3.0
+APT100932,2025-03-24,Orthopedics,Catonsville,Provider H,Follow-up,New,Commercial,13,0,Cancelled,60,
+APT100563,2025-03-25,Primary Care,Baltimore,Provider D,Telehealth,Returning,Medicaid,56,0,Cancelled,15,
+APT101011,2025-03-25,Cardiology,Baltimore,Provider G,New Patient,Returning,Medicare,9,64,Completed,30,3.8
+APT100754,2025-03-26,Primary Care,Columbia,Provider A,Annual Checkup,New,Medicare,37,88,Completed,30,2.7
+APT100157,2025-03-27,Neurology,Columbia,Provider E,Follow-up,Returning,Commercial,42,0,Cancelled,30,
+APT100466,2025-03-27,Neurology,Towson,Provider H,New Patient,Returning,Medicaid,49,16,Completed,15,4.2
+APT100912,2025-03-27,Primary Care,Towson,Provider C,Telehealth,Returning,Medicare,5,46,Completed,60,2.9
+APT101089,2025-03-27,Pediatrics,Columbia,Provider J,Follow-up,Returning,Self-Pay,27,47,Completed,30,3.3
+APT100012,2025-03-29,Orthopedics,Towson,Provider I,Annual Checkup,Returning,Medicaid,27,77,Completed,45,3.8
+APT100049,2025-03-30,Primary Care,Catonsville,Provider I,New Patient,Returning,Self-Pay,14,55,Completed,30,3.7
+APT100454,2025-03-30,Pediatrics,Baltimore,Provider I,Follow-up,Returning,Commercial,47,88,Completed,30,2.7
+APT101050,2025-03-30,Neurology,Catonsville,Provider J,Urgent Care,Returning,Commercial,48,70,Completed,30,3.6
+APT101053,2025-03-30,Orthopedics,Catonsville,Provider F,Telehealth,Returning,Commercial,35,0,No-show,30,
+APT100527,2025-03-31,Orthopedics,Towson,Provider A,New Patient,Returning,Medicare,60,0,Cancelled,30,
+APT100530,2025-03-31,Primary Care,Baltimore,Provider J,Telehealth,Returning,Commercial,56,87,Completed,30,3.0
+APT100692,2025-03-31,Pediatrics,Catonsville,Provider G,Follow-up,Returning,Medicaid,17,29,Completed,45,3.9
+APT100993,2025-03-31,Pediatrics,Baltimore,Provider G,Urgent Care,New,Commercial,56,6,Completed,30,5.0
+APT101179,2025-03-31,Primary Care,Baltimore,Provider J,Follow-up,Returning,Medicaid,56,0,Cancelled,60,
+APT100634,2025-04-01,Cardiology,Baltimore,Provider D,Urgent Care,New,Medicare,56,10,Completed,60,4.8
+APT100057,2025-04-02,Cardiology,Catonsville,Provider E,Follow-up,Returning,Medicaid,7,51,Completed,45,3.3
+APT100389,2025-04-02,Neurology,Baltimore,Provider E,Follow-up,Returning,Medicaid,4,0,Cancelled,45,
+APT100436,2025-04-02,Primary Care,Catonsville,Provider G,Annual Checkup,Returning,Commercial,21,81,Completed,30,3.7
+APT100844,2025-04-02,Neurology,Columbia,Provider B,Telehealth,Returning,Medicaid,21,85,Completed,30,2.6
+APT101150,2025-04-02,Orthopedics,Catonsville,Provider A,Follow-up,Returning,Medicare,35,17,Completed,30,4.0
+APT100529,2025-04-03,Primary Care,Columbia,Provider C,Telehealth,Returning,Medicare,32,35,Completed,45,4.1
+APT100837,2025-04-03,Primary Care,Towson,Provider I,Follow-up,Returning,Medicaid,17,63,Completed,30,3.8
+APT100472,2025-04-04,Neurology,Towson,Provider C,Follow-up,New,Commercial,33,38,Completed,30,3.4
+APT100973,2025-04-04,Primary Care,Catonsville,Provider D,Follow-up,Returning,Medicaid,11,69,Completed,45,2.7
+APT101019,2025-04-04,Neurology,Columbia,Provider J,New Patient,Returning,Commercial,22,42,Completed,15,4.3
+APT100343,2025-04-05,Pediatrics,Baltimore,Provider H,Follow-up,Returning,Commercial,59,0,Cancelled,30,
+APT100520,2025-04-05,Pediatrics,Towson,Provider I,Follow-up,Returning,Commercial,60,0,No-show,60,
+APT100764,2025-04-05,Cardiology,Columbia,Provider G,Follow-up,New,Commercial,35,12,Completed,30,5.0
+APT100828,2025-04-05,Neurology,Baltimore,Provider E,Telehealth,New,Medicare,13,37,Completed,30,4.3
+APT100954,2025-04-05,Pediatrics,Columbia,Provider F,New Patient,Returning,Medicaid,40,27,Completed,30,5.0
+APT101020,2025-04-05,Orthopedics,Towson,Provider F,New Patient,Returning,Medicare,25,39,Completed,30,3.5
+APT101114,2025-04-05,Orthopedics,Catonsville,Provider D,Annual Checkup,Returning,Commercial,30,76,Completed,30,2.8
+APT100144,2025-04-06,Primary Care,Towson,Provider D,Telehealth,Returning,Medicaid,47,77,Completed,30,3.0
+APT100193,2025-04-06,Primary Care,Columbia,Provider G,Urgent Care,New,Self-Pay,20,82,Completed,30,2.8
+APT100450,2025-04-06,Primary Care,Baltimore,Provider H,Urgent Care,New,Self-Pay,24,5,Completed,30,4.3
+APT100494,2025-04-06,Neurology,Baltimore,Provider B,Follow-up,New,Medicare,52,0,No-show,15,
+APT100547,2025-04-06,Orthopedics,Towson,Provider C,Telehealth,Returning,Medicaid,34,0,No-show,30,
+APT100234,2025-04-07,Primary Care,Columbia,Provider I,Follow-up,Returning,Commercial,27,66,Completed,45,3.2
+APT100321,2025-04-07,Neurology,Columbia,Provider H,Follow-up,Returning,Commercial,2,20,Completed,30,4.6
+APT101085,2025-04-07,Orthopedics,Towson,Provider C,Follow-up,Returning,Medicare,33,0,No-show,45,
+APT100230,2025-04-08,Cardiology,Baltimore,Provider G,Follow-up,Returning,Medicare,10,68,Completed,30,3.1
+APT100738,2025-04-08,Pediatrics,Columbia,Provider I,Follow-up,New,Commercial,7,0,No-show,45,
+APT100793,2025-04-08,Pediatrics,Baltimore,Provider E,Urgent Care,New,Medicaid,23,10,Completed,30,5.0
+APT100120,2025-04-09,Orthopedics,Towson,Provider J,Telehealth,Returning,Commercial,17,84,Completed,30,1.9
+APT100257,2025-04-09,Primary Care,Catonsville,Provider A,Follow-up,New,Self-Pay,51,0,Cancelled,30,
+APT100272,2025-04-09,Primary Care,Towson,Provider J,New Patient,New,Commercial,17,37,Completed,30,4.4
+APT100289,2025-04-09,Cardiology,Columbia,Provider J,Urgent Care,Returning,Commercial,21,0,Cancelled,15,
+APT100336,2025-04-09,Dermatology,Baltimore,Provider I,New Patient,New,Commercial,14,22,Completed,45,4.4
+APT100344,2025-04-09,Neurology,Catonsville,Provider G,New Patient,New,Self-Pay,26,34,Completed,15,3.0
+APT100545,2025-04-09,Pediatrics,Baltimore,Provider F,Telehealth,New,Commercial,5,52,Completed,30,4.6
+APT100580,2025-04-09,Neurology,Columbia,Provider D,Telehealth,Returning,Medicare,51,90,Completed,30,2.6
+APT100740,2025-04-09,Pediatrics,Towson,Provider G,Follow-up,Returning,Medicare,43,0,Cancelled,30,
+APT100013,2025-04-10,Primary Care,Baltimore,Provider C,Urgent Care,Returning,Commercial,47,11,Completed,45,5.0
+APT100478,2025-04-10,Orthopedics,Columbia,Provider E,Telehealth,Returning,Commercial,51,0,Cancelled,45,
+APT100488,2025-04-10,Orthopedics,Towson,Provider A,Urgent Care,Returning,Medicare,31,63,Completed,30,3.4
+APT100569,2025-04-10,Pediatrics,Baltimore,Provider E,Telehealth,New,Self-Pay,42,73,Completed,30,3.6
+APT100126,2025-04-11,Cardiology,Catonsville,Provider E,Follow-up,Returning,Medicaid,1,28,Completed,30,4.2
+APT100202,2025-04-11,Orthopedics,Columbia,Provider A,New Patient,New,Commercial,24,0,Cancelled,45,
+APT100411,2025-04-11,Orthopedics,Towson,Provider I,New Patient,New,Medicare,31,55,Completed,30,3.5
+APT100510,2025-04-11,Primary Care,Baltimore,Provider I,Telehealth,Returning,Self-Pay,45,32,Completed,60,4.4
+APT100934,2025-04-11,Neurology,Baltimore,Provider E,Follow-up,Returning,Commercial,55,8,Completed,45,5.0
+APT101014,2025-04-11,Neurology,Columbia,Provider G,New Patient,Returning,Medicaid,28,30,Completed,45,4.9
+APT101160,2025-04-11,Cardiology,Catonsville,Provider B,New Patient,Returning,Medicaid,31,0,Cancelled,30,
+APT100001,2025-04-13,Primary Care,Towson,Provider I,Telehealth,New,Commercial,6,59,Completed,30,3.2
+APT100008,2025-04-13,Neurology,Baltimore,Provider A,New Patient,Returning,Commercial,57,36,Completed,60,4.8
+APT100417,2025-04-13,Primary Care,Towson,Provider C,New Patient,Returning,Commercial,37,87,Completed,30,2.2
+APT100787,2025-04-13,Primary Care,Baltimore,Provider E,Urgent Care,New,Commercial,3,18,Completed,45,4.5
+APT100284,2025-04-14,Orthopedics,Baltimore,Provider E,Annual Checkup,New,Medicare,37,21,Completed,30,4.4
+APT100369,2025-04-14,Primary Care,Catonsville,Provider F,Follow-up,New,Medicare,4,9,Completed,30,5.0
+APT101057,2025-04-14,Pediatrics,Catonsville,Provider J,Telehealth,New,Medicare,37,0,Cancelled,30,
+APT101070,2025-04-14,Primary Care,Baltimore,Provider D,Telehealth,Returning,Commercial,60,0,No-show,30,
+APT101071,2025-04-14,Cardiology,Baltimore,Provider E,New Patient,Returning,Commercial,47,0,No-show,30,
+APT101137,2025-04-14,Primary Care,Columbia,Provider J,Follow-up,Returning,Commercial,43,0,Cancelled,30,
+APT101140,2025-04-14,Neurology,Catonsville,Provider J,Telehealth,Returning,Commercial,17,0,No-show,30,
+APT100532,2025-04-15,Primary Care,Catonsville,Provider I,Annual Checkup,Returning,Self-Pay,7,78,Completed,30,2.9
+APT100739,2025-04-15,Pediatrics,Baltimore,Provider E,New Patient,Returning,Medicare,14,0,No-show,45,
+APT100066,2025-04-16,Neurology,Catonsville,Provider I,Follow-up,Returning,Commercial,39,5,Completed,30,5.0
+APT100429,2025-04-16,Pediatrics,Catonsville,Provider C,Telehealth,Returning,Commercial,50,0,Cancelled,30,
+APT100804,2025-04-16,Pediatrics,Baltimore,Provider A,Annual Checkup,Returning,Medicare,22,0,Cancelled,15,
+APT101149,2025-04-16,Dermatology,Baltimore,Provider H,Annual Checkup,New,Medicaid,12,15,Completed,30,4.7
+APT100004,2025-04-17,Neurology,Baltimore,Provider C,Urgent Care,New,Medicare,36,60,Completed,30,3.8
+APT100868,2025-04-17,Primary Care,Columbia,Provider E,Annual Checkup,Returning,Commercial,1,75,Completed,30,3.3
+APT100166,2025-04-18,Pediatrics,Baltimore,Provider B,Urgent Care,New,Commercial,9,25,Completed,30,4.4
+APT100415,2025-04-18,Pediatrics,Catonsville,Provider D,Annual Checkup,Returning,Medicaid,3,59,Completed,30,3.9
+APT100587,2025-04-19,Primary Care,Columbia,Provider J,Urgent Care,Returning,Commercial,33,0,No-show,15,
+APT100923,2025-04-19,Primary Care,Towson,Provider G,Annual Checkup,New,Commercial,47,61,Completed,15,4.0
+APT101162,2025-04-20,Primary Care,Columbia,Provider F,Telehealth,Returning,Commercial,54,47,Completed,30,3.5
+APT100823,2025-04-21,Neurology,Catonsville,Provider C,Annual Checkup,Returning,Commercial,1,31,Completed,30,4.6
+APT100897,2025-04-21,Dermatology,Towson,Provider B,New Patient,Returning,Medicaid,36,11,Completed,30,4.6
+APT100925,2025-04-21,Primary Care,Catonsville,Provider F,Telehealth,New,Commercial,4,47,Completed,45,3.7
+APT100927,2025-04-21,Orthopedics,Baltimore,Provider D,Urgent Care,Returning,Commercial,19,46,Completed,60,3.8
+APT100929,2025-04-21,Cardiology,Catonsville,Provider E,Urgent Care,New,Medicare,31,73,Completed,30,3.0
+APT101079,2025-04-21,Cardiology,Baltimore,Provider G,Annual Checkup,Returning,Medicaid,13,0,Cancelled,30,
+APT101139,2025-04-21,Neurology,Towson,Provider G,Urgent Care,Returning,Commercial,18,35,Completed,15,4.6
+APT100262,2025-04-22,Neurology,Catonsville,Provider B,New Patient,Returning,Self-Pay,35,60,Completed,15,3.0
+APT100288,2025-04-22,Cardiology,Baltimore,Provider C,New Patient,Returning,Medicare,38,77,Completed,15,3.0
+APT100779,2025-04-22,Pediatrics,Towson,Provider A,Annual Checkup,Returning,Commercial,45,0,Cancelled,60,
+APT100948,2025-04-22,Pediatrics,Towson,Provider H,Follow-up,New,Commercial,13,7,Completed,45,5.0
+APT100196,2025-04-23,Pediatrics,Towson,Provider B,New Patient,New,Medicaid,54,0,No-show,45,
+APT100201,2025-04-23,Dermatology,Catonsville,Provider B,Annual Checkup,New,Self-Pay,24,14,Completed,30,4.8
+APT100203,2025-04-23,Cardiology,Columbia,Provider E,Urgent Care,Returning,Commercial,9,78,Completed,30,2.6
+APT100206,2025-04-23,Pediatrics,Catonsville,Provider G,New Patient,Returning,Commercial,17,36,Completed,30,4.2
+APT100283,2025-04-23,Neurology,Towson,Provider D,Telehealth,Returning,Commercial,43,61,Completed,15,3.5
+APT100877,2025-04-23,Primary Care,Catonsville,Provider I,Urgent Care,New,Medicare,40,19,Completed,30,5.0
+APT100989,2025-04-23,Orthopedics,Baltimore,Provider C,Telehealth,New,Commercial,24,51,Completed,45,3.9
+APT100362,2025-04-24,Primary Care,Baltimore,Provider I,Urgent Care,Returning,Medicare,58,0,Cancelled,45,
+APT100535,2025-04-24,Primary Care,Baltimore,Provider H,Annual Checkup,Returning,Commercial,49,24,Completed,30,3.8
+APT100531,2025-04-25,Neurology,Baltimore,Provider B,Follow-up,Returning,Medicare,53,0,No-show,30,
+APT101115,2025-04-25,Neurology,Towson,Provider E,Follow-up,New,Commercial,18,88,Completed,30,2.6
+APT100178,2025-04-26,Pediatrics,Columbia,Provider A,Follow-up,Returning,Commercial,3,29,Completed,30,5.0
+APT100281,2025-04-26,Neurology,Columbia,Provider H,Follow-up,Returning,Self-Pay,44,19,Completed,30,4.7
+APT100346,2025-04-26,Neurology,Baltimore,Provider F,Follow-up,New,Commercial,43,65,Completed,30,3.4
+APT100440,2025-04-27,Dermatology,Columbia,Provider F,New Patient,Returning,Commercial,21,15,Completed,45,4.7
+APT100654,2025-04-27,Primary Care,Columbia,Provider I,Follow-up,New,Self-Pay,7,28,Completed,30,4.1
+APT101173,2025-04-27,Neurology,Baltimore,Provider A,Follow-up,Returning,Commercial,35,68,Completed,30,3.1
+APT100452,2025-04-28,Primary Care,Columbia,Provider C,Annual Checkup,New,Medicare,41,38,Completed,30,3.5
+APT100770,2025-04-28,Pediatrics,Columbia,Provider H,Annual Checkup,New,Medicare,44,11,Completed,30,5.0
+APT100972,2025-04-28,Orthopedics,Towson,Provider A,New Patient,Returning,Commercial,4,21,Completed,60,4.3
+APT100983,2025-04-28,Pediatrics,Baltimore,Provider D,Follow-up,Returning,Commercial,26,68,Completed,30,3.6
+APT101096,2025-04-28,Orthopedics,Columbia,Provider D,Telehealth,New,Self-Pay,55,32,Completed,30,4.6
+APT100722,2025-04-29,Primary Care,Towson,Provider I,New Patient,New,Medicare,40,51,Completed,30,4.5
+APT100906,2025-04-29,Dermatology,Towson,Provider B,Follow-up,Returning,Commercial,16,48,Completed,30,4.8
+APT100279,2025-04-30,Primary Care,Baltimore,Provider F,New Patient,Returning,Self-Pay,28,83,Completed,30,2.0
+APT100433,2025-04-30,Orthopedics,Baltimore,Provider J,Annual Checkup,Returning,Self-Pay,48,66,Completed,30,3.8
+APT100177,2025-05-01,Primary Care,Columbia,Provider H,Annual Checkup,Returning,Commercial,50,0,No-show,30,
+APT100863,2025-05-01,Cardiology,Catonsville,Provider D,Urgent Care,Returning,Commercial,31,0,No-show,30,
+APT100009,2025-05-02,Dermatology,Columbia,Provider E,Follow-up,Returning,Commercial,17,78,Completed,30,3.4
+APT100446,2025-05-02,Dermatology,Catonsville,Provider E,Annual Checkup,Returning,Medicare,41,17,Completed,45,4.9
+APT100592,2025-05-02,Dermatology,Baltimore,Provider F,Follow-up,Returning,Commercial,2,46,Completed,15,3.8
+APT100612,2025-05-02,Pediatrics,Baltimore,Provider D,New Patient,Returning,Self-Pay,33,25,Completed,30,4.7
+APT100689,2025-05-02,Orthopedics,Catonsville,Provider J,Follow-up,New,Commercial,9,48,Completed,30,4.4
+APT100840,2025-05-02,Pediatrics,Baltimore,Provider D,Annual Checkup,Returning,Medicare,6,21,Completed,30,4.9
+APT100225,2025-05-03,Dermatology,Baltimore,Provider E,Urgent Care,Returning,Commercial,45,31,Completed,30,3.9
+APT101093,2025-05-03,Pediatrics,Catonsville,Provider F,Follow-up,Returning,Medicare,28,21,Completed,30,4.9
+APT100236,2025-05-04,Dermatology,Towson,Provider J,Telehealth,New,Commercial,55,39,Completed,30,3.3
+APT100428,2025-05-04,Dermatology,Columbia,Provider A,Annual Checkup,New,Medicare,14,74,Completed,30,3.0
+APT100400,2025-05-05,Primary Care,Columbia,Provider H,Telehealth,New,Commercial,3,69,Completed,30,3.3
+APT101061,2025-05-05,Pediatrics,Columbia,Provider G,Annual Checkup,Returning,Commercial,45,0,Cancelled,30,
+APT100214,2025-05-06,Orthopedics,Baltimore,Provider D,Follow-up,Returning,Self-Pay,10,65,Completed,30,3.0
+APT100451,2025-05-06,Cardiology,Towson,Provider C,Annual Checkup,Returning,Medicare,11,67,Completed,60,3.3
+APT100639,2025-05-06,Orthopedics,Catonsville,Provider A,Follow-up,New,Commercial,37,18,Completed,45,5.0
+APT100644,2025-05-06,Primary Care,Catonsville,Provider J,New Patient,New,Commercial,45,0,Cancelled,30,
+APT100819,2025-05-06,Cardiology,Columbia,Provider C,New Patient,Returning,Commercial,43,40,Completed,45,4.8
+APT100913,2025-05-06,Primary Care,Columbia,Provider A,Annual Checkup,Returning,Medicare,37,84,Completed,30,2.8
+APT100366,2025-05-07,Orthopedics,Baltimore,Provider D,New Patient,Returning,Commercial,17,14,Completed,30,5.0
+APT100443,2025-05-07,Pediatrics,Baltimore,Provider A,Annual Checkup,Returning,Commercial,31,37,Completed,45,3.5
+APT100883,2025-05-07,Cardiology,Columbia,Provider E,New Patient,Returning,Commercial,11,0,Cancelled,30,
+APT101148,2025-05-07,Dermatology,Catonsville,Provider C,Follow-up,Returning,Commercial,30,64,Completed,30,4.4
+APT100171,2025-05-08,Primary Care,Baltimore,Provider F,Follow-up,New,Commercial,36,45,Completed,30,4.6
+APT100249,2025-05-08,Neurology,Towson,Provider D,Follow-up,Returning,Medicare,30,55,Completed,45,4.3
+APT100305,2025-05-08,Primary Care,Towson,Provider H,Telehealth,New,Commercial,39,78,Completed,30,2.9
+APT100352,2025-05-08,Pediatrics,Catonsville,Provider D,Urgent Care,Returning,Commercial,12,66,Completed,45,3.5
+APT101185,2025-05-08,Cardiology,Columbia,Provider F,Telehealth,New,Commercial,18,82,Completed,45,2.8
+APT100100,2025-05-09,Pediatrics,Towson,Provider E,Follow-up,Returning,Commercial,31,0,Cancelled,45,
+APT100253,2025-05-09,Pediatrics,Towson,Provider C,Urgent Care,Returning,Commercial,22,9,Completed,45,4.6
+APT100444,2025-05-09,Primary Care,Towson,Provider H,Follow-up,New,Medicare,21,0,No-show,15,
+APT100208,2025-05-10,Primary Care,Baltimore,Provider J,Urgent Care,Returning,Commercial,28,78,Completed,30,2.6
+APT100215,2025-05-10,Neurology,Baltimore,Provider H,Telehealth,Returning,Commercial,58,76,Completed,15,3.5
+APT101010,2025-05-10,Pediatrics,Towson,Provider H,Telehealth,Returning,Medicaid,12,56,Completed,45,4.1
+APT101113,2025-05-10,Pediatrics,Columbia,Provider D,Annual Checkup,Returning,Medicaid,28,75,Completed,45,2.6
+APT100016,2025-05-11,Primary Care,Baltimore,Provider I,New Patient,Returning,Commercial,46,11,Completed,15,5.0
+APT100042,2025-05-11,Pediatrics,Towson,Provider H,Urgent Care,Returning,Medicaid,31,32,Completed,30,4.7
+APT100127,2025-05-11,Orthopedics,Catonsville,Provider H,New Patient,New,Medicare,47,43,Completed,30,4.5
+APT100276,2025-05-11,Pediatrics,Towson,Provider J,Follow-up,Returning,Commercial,55,0,No-show,30,
+APT100626,2025-05-12,Primary Care,Towson,Provider J,Follow-up,Returning,Commercial,4,61,Completed,45,4.0
+APT101049,2025-05-12,Orthopedics,Baltimore,Provider F,Follow-up,New,Commercial,29,14,Completed,30,4.3
+APT100593,2025-05-13,Dermatology,Towson,Provider A,Follow-up,Returning,Commercial,7,86,Completed,45,3.5
+APT100745,2025-05-13,Neurology,Baltimore,Provider H,Follow-up,Returning,Self-Pay,38,15,Completed,60,4.9
+APT100807,2025-05-13,Primary Care,Towson,Provider E,Telehealth,Returning,Medicaid,54,0,Cancelled,30,
+APT100850,2025-05-13,Orthopedics,Towson,Provider C,New Patient,Returning,Medicaid,13,0,No-show,15,
+APT100981,2025-05-13,Primary Care,Catonsville,Provider C,New Patient,New,Commercial,53,14,Completed,45,5.0
+APT101145,2025-05-13,Primary Care,Baltimore,Provider F,Annual Checkup,Returning,Medicaid,54,53,Completed,30,3.7
+APT100163,2025-05-14,Neurology,Columbia,Provider A,New Patient,Returning,Commercial,29,45,Completed,60,3.8
+APT100655,2025-05-14,Pediatrics,Baltimore,Provider B,Follow-up,Returning,Commercial,33,0,Cancelled,30,
+APT100971,2025-05-14,Pediatrics,Catonsville,Provider B,New Patient,New,Commercial,22,13,Completed,45,4.5
+APT101074,2025-05-14,Cardiology,Baltimore,Provider G,Telehealth,New,Medicare,46,70,Completed,30,3.1
+APT101128,2025-05-14,Cardiology,Baltimore,Provider F,Follow-up,New,Medicare,56,0,No-show,30,
+APT100044,2025-05-15,Primary Care,Columbia,Provider F,Annual Checkup,Returning,Medicaid,60,80,Completed,30,3.2
+APT100111,2025-05-15,Pediatrics,Catonsville,Provider H,Telehealth,New,Medicaid,58,33,Completed,30,3.6
+APT100303,2025-05-15,Pediatrics,Baltimore,Provider B,Follow-up,Returning,Commercial,57,7,Completed,45,4.7
+APT100101,2025-05-16,Primary Care,Towson,Provider D,Follow-up,Returning,Commercial,22,45,Completed,30,4.0
+APT100618,2025-05-16,Pediatrics,Baltimore,Provider D,Urgent Care,Returning,Medicaid,41,0,No-show,15,
+APT100693,2025-05-16,Orthopedics,Columbia,Provider C,Follow-up,New,Medicaid,44,0,Cancelled,30,
+APT101106,2025-05-16,Dermatology,Columbia,Provider G,Follow-up,Returning,Medicare,13,16,Completed,30,5.0
+APT100183,2025-05-17,Neurology,Towson,Provider D,Telehealth,New,Commercial,17,0,Cancelled,30,
+APT100957,2025-05-17,Orthopedics,Baltimore,Provider J,Follow-up,New,Commercial,48,19,Completed,30,4.8
+APT101026,2025-05-17,Neurology,Baltimore,Provider H,Telehealth,New,Medicaid,15,28,Completed,45,4.4
+APT101170,2025-05-17,Dermatology,Catonsville,Provider D,New Patient,Returning,Commercial,17,0,No-show,60,
+APT100809,2025-05-18,Orthopedics,Towson,Provider I,Telehealth,Returning,Self-Pay,49,0,Cancelled,45,
+APT101006,2025-05-18,Primary Care,Towson,Provider B,Telehealth,New,Medicaid,42,64,Completed,30,2.2
+APT100103,2025-05-19,Pediatrics,Towson,Provider D,Follow-up,Returning,Medicare,47,21,Completed,30,4.6
+APT100998,2025-05-19,Cardiology,Catonsville,Provider B,Urgent Care,Returning,Commercial,32,76,Completed,30,3.2
+APT100267,2025-05-20,Cardiology,Baltimore,Provider J,Follow-up,Returning,Medicare,26,20,Completed,30,4.5
+APT100990,2025-05-20,Cardiology,Catonsville,Provider G,Telehealth,Returning,Commercial,48,0,Cancelled,15,
+APT100608,2025-05-21,Neurology,Baltimore,Provider I,Annual Checkup,New,Medicare,37,0,Cancelled,45,
+APT100641,2025-05-21,Orthopedics,Baltimore,Provider H,New Patient,Returning,Commercial,57,47,Completed,30,4.0
+APT101136,2025-05-21,Neurology,Columbia,Provider G,New Patient,Returning,Commercial,43,85,Completed,45,2.4
+APT100387,2025-05-22,Cardiology,Catonsville,Provider I,Follow-up,New,Commercial,15,47,Completed,45,3.3
+APT100994,2025-05-22,Orthopedics,Towson,Provider E,New Patient,Returning,Medicaid,26,62,Completed,45,3.4
+APT100148,2025-05-23,Dermatology,Catonsville,Provider F,New Patient,New,Self-Pay,5,58,Completed,30,3.7
+APT100388,2025-05-23,Primary Care,Columbia,Provider E,Follow-up,Returning,Medicare,5,20,Completed,45,4.6
+APT100677,2025-05-23,Pediatrics,Catonsville,Provider A,Follow-up,Returning,Medicaid,27,15,Completed,30,5.0
+APT101065,2025-05-23,Orthopedics,Baltimore,Provider G,Follow-up,Returning,Medicaid,6,86,Completed,30,2.2
+APT100233,2025-05-24,Primary Care,Catonsville,Provider E,Annual Checkup,New,Commercial,4,0,Cancelled,30,
+APT100260,2025-05-24,Cardiology,Towson,Provider D,New Patient,Returning,Commercial,46,51,Completed,30,4.0
+APT100426,2025-05-24,Primary Care,Towson,Provider D,Urgent Care,Returning,Medicaid,4,0,Cancelled,30,
+APT100465,2025-05-24,Orthopedics,Baltimore,Provider G,New Patient,Returning,Medicare,14,87,Completed,30,2.5
+APT100578,2025-05-24,Primary Care,Columbia,Provider A,Telehealth,Returning,Commercial,9,0,Cancelled,45,
+APT100584,2025-05-24,Primary Care,Baltimore,Provider D,Urgent Care,New,Commercial,14,5,Completed,30,4.9
+APT100681,2025-05-24,Primary Care,Towson,Provider B,New Patient,New,Commercial,59,76,Completed,60,3.1
+APT100432,2025-05-25,Neurology,Catonsville,Provider H,Follow-up,Returning,Commercial,22,0,Cancelled,45,
+APT100622,2025-05-25,Pediatrics,Towson,Provider B,Urgent Care,Returning,Commercial,17,0,Cancelled,30,
+APT100703,2025-05-25,Pediatrics,Catonsville,Provider G,Follow-up,New,Commercial,6,52,Completed,15,3.9
+APT100753,2025-05-25,Primary Care,Catonsville,Provider A,Follow-up,Returning,Medicare,17,7,Completed,30,5.0
+APT100916,2025-05-25,Orthopedics,Baltimore,Provider D,Follow-up,New,Medicare,23,72,Completed,30,2.2
+APT101067,2025-05-25,Neurology,Baltimore,Provider I,Follow-up,Returning,Commercial,36,87,Completed,30,2.6
+APT100599,2025-05-26,Primary Care,Catonsville,Provider D,Follow-up,New,Medicare,22,7,Completed,30,4.6
+APT100725,2025-05-26,Neurology,Columbia,Provider C,Follow-up,Returning,Medicaid,50,56,Completed,30,3.4
+APT100924,2025-05-26,Dermatology,Towson,Provider G,New Patient,New,Medicare,54,56,Completed,30,3.4
+APT100244,2025-05-27,Neurology,Catonsville,Provider A,Follow-up,Returning,Self-Pay,54,67,Completed,60,3.7
+APT100273,2025-05-27,Primary Care,Towson,Provider I,Follow-up,Returning,Commercial,45,30,Completed,45,5.0
+APT100325,2025-05-27,Primary Care,Catonsville,Provider B,New Patient,New,Medicaid,31,85,Completed,30,3.1
+APT100431,2025-05-27,Pediatrics,Baltimore,Provider C,Follow-up,Returning,Commercial,33,41,Completed,30,4.6
+APT100493,2025-05-27,Primary Care,Baltimore,Provider E,Telehealth,Returning,Commercial,13,22,Completed,30,3.6
+APT100671,2025-05-27,Orthopedics,Towson,Provider D,Follow-up,Returning,Medicare,56,34,Completed,30,3.5
+APT100241,2025-05-28,Orthopedics,Baltimore,Provider G,New Patient,Returning,Commercial,20,29,Completed,30,4.8
+APT100245,2025-05-28,Neurology,Columbia,Provider I,Urgent Care,Returning,Medicare,55,16,Completed,45,4.5
+APT100646,2025-05-28,Cardiology,Towson,Provider I,Telehealth,Returning,Medicare,22,74,Completed,45,3.4
+APT101122,2025-05-28,Cardiology,Towson,Provider H,Urgent Care,Returning,Commercial,49,41,Completed,30,3.6
+APT100663,2025-05-29,Primary Care,Catonsville,Provider D,New Patient,New,Medicare,57,45,Completed,30,4.0
+APT101168,2025-05-29,Orthopedics,Columbia,Provider G,Follow-up,Returning,Self-Pay,37,0,No-show,30,
+APT100017,2025-05-30,Primary Care,Baltimore,Provider G,Follow-up,Returning,Medicare,13,0,Cancelled,45,
+APT100401,2025-05-30,Neurology,Baltimore,Provider G,Follow-up,Returning,Commercial,10,72,Completed,30,2.1
+APT100944,2025-05-30,Pediatrics,Towson,Provider H,Telehealth,Returning,Commercial,6,0,Cancelled,30,
+APT101199,2025-05-30,Primary Care,Towson,Provider F,Annual Checkup,Returning,Medicaid,37,0,Cancelled,30,
+APT100255,2025-05-31,Primary Care,Catonsville,Provider G,Annual Checkup,Returning,Commercial,43,43,Completed,45,3.8
+APT100365,2025-05-31,Dermatology,Catonsville,Provider F,Follow-up,Returning,Self-Pay,57,0,No-show,30,
+APT100549,2025-05-31,Neurology,Towson,Provider C,Telehealth,New,Medicare,26,21,Completed,30,5.0
+APT100583,2025-05-31,Primary Care,Towson,Provider I,Urgent Care,Returning,Medicaid,50,0,Cancelled,30,
+APT100825,2025-05-31,Neurology,Towson,Provider B,Telehealth,New,Medicare,12,38,Completed,60,4.5
+APT100015,2025-06-01,Primary Care,Columbia,Provider C,Annual Checkup,New,Commercial,15,68,Completed,30,3.2
+APT100190,2025-06-01,Neurology,Catonsville,Provider B,Follow-up,Returning,Medicare,16,35,Completed,60,4.7
+APT100277,2025-06-01,Primary Care,Catonsville,Provider A,New Patient,Returning,Commercial,58,90,Completed,60,2.4
+APT100505,2025-06-01,Orthopedics,Catonsville,Provider H,New Patient,New,Commercial,34,0,Cancelled,45,
+APT100548,2025-06-01,Primary Care,Columbia,Provider D,Annual Checkup,New,Medicare,58,60,Completed,30,3.7
+APT100955,2025-06-01,Primary Care,Catonsville,Provider F,Telehealth,Returning,Medicaid,32,38,Completed,45,3.9
+APT101190,2025-06-01,Pediatrics,Towson,Provider C,Urgent Care,New,Commercial,30,0,Cancelled,45,
+APT100290,2025-06-02,Primary Care,Catonsville,Provider C,Annual Checkup,Returning,Medicare,9,0,No-show,60,
+APT100396,2025-06-02,Cardiology,Towson,Provider A,New Patient,Returning,Commercial,4,59,Completed,30,3.2
+APT101066,2025-06-02,Primary Care,Towson,Provider H,Telehealth,New,Medicare,8,50,Completed,30,3.7
+APT100464,2025-06-03,Pediatrics,Catonsville,Provider H,Follow-up,New,Medicare,22,30,Completed,45,5.0
+APT100767,2025-06-03,Primary Care,Towson,Provider C,New Patient,Returning,Commercial,22,0,No-show,30,
+APT100891,2025-06-03,Cardiology,Catonsville,Provider J,Follow-up,Returning,Medicaid,10,0,No-show,45,
+APT101174,2025-06-03,Primary Care,Baltimore,Provider A,Telehealth,New,Commercial,58,56,Completed,30,3.8
+APT101200,2025-06-03,Primary Care,Baltimore,Provider C,Follow-up,Returning,Commercial,2,30,Completed,30,3.8
+APT100367,2025-06-04,Pediatrics,Columbia,Provider G,Follow-up,Returning,Commercial,39,10,Completed,30,4.9
+APT100836,2025-06-04,Cardiology,Columbia,Provider F,Telehealth,Returning,Commercial,5,0,Cancelled,30,
+APT100687,2025-06-05,Cardiology,Towson,Provider E,Annual Checkup,Returning,Commercial,22,0,Cancelled,60,
+APT100092,2025-06-06,Neurology,Towson,Provider E,Annual Checkup,New,Commercial,11,0,No-show,30,
+APT101080,2025-06-06,Cardiology,Baltimore,Provider E,New Patient,Returning,Commercial,21,78,Completed,15,2.9
+APT101083,2025-06-06,Pediatrics,Baltimore,Provider A,New Patient,New,Commercial,19,85,Completed,45,3.1
+APT101105,2025-06-06,Orthopedics,Columbia,Provider H,Telehealth,Returning,Commercial,42,44,Completed,30,3.7
+APT101108,2025-06-06,Primary Care,Catonsville,Provider H,Follow-up,Returning,Medicaid,12,32,Completed,60,4.6
+APT100310,2025-06-07,Neurology,Columbia,Provider D,Annual Checkup,New,Commercial,13,80,Completed,45,2.9
+APT100333,2025-06-07,Pediatrics,Towson,Provider E,New Patient,Returning,Medicaid,48,0,No-show,30,
+APT100430,2025-06-07,Cardiology,Catonsville,Provider D,Urgent Care,Returning,Medicare,27,54,Completed,30,3.7
+APT101098,2025-06-08,Neurology,Columbia,Provider D,New Patient,Returning,Commercial,44,8,Completed,15,5.0
+APT100153,2025-06-09,Primary Care,Catonsville,Provider B,New Patient,New,Commercial,25,0,No-show,15,
+APT100192,2025-06-09,Pediatrics,Columbia,Provider G,New Patient,Returning,Medicaid,55,6,Completed,30,5.0
+APT100219,2025-06-09,Dermatology,Towson,Provider I,Annual Checkup,Returning,Commercial,46,0,No-show,45,
+APT100269,2025-06-09,Pediatrics,Catonsville,Provider D,Follow-up,Returning,Medicare,36,88,Completed,30,3.0
+APT100503,2025-06-09,Neurology,Baltimore,Provider C,Telehealth,Returning,Medicare,50,7,Completed,45,5.0
+APT100659,2025-06-09,Cardiology,Towson,Provider J,Follow-up,New,Medicaid,11,41,Completed,30,3.4
+APT100838,2025-06-09,Cardiology,Catonsville,Provider H,Urgent Care,Returning,Commercial,30,0,Cancelled,15,
+APT100024,2025-06-10,Dermatology,Columbia,Provider I,Telehealth,New,Medicaid,24,26,Completed,45,4.5
+APT100280,2025-06-10,Primary Care,Towson,Provider B,Urgent Care,Returning,Medicare,1,14,Completed,15,5.0
+APT100298,2025-06-10,Dermatology,Catonsville,Provider E,Annual Checkup,Returning,Medicaid,44,0,Cancelled,45,
+APT100349,2025-06-10,Cardiology,Towson,Provider C,Telehealth,Returning,Medicaid,50,80,Completed,30,2.9
+APT101002,2025-06-10,Dermatology,Baltimore,Provider J,New Patient,New,Commercial,25,0,Cancelled,30,
+APT101195,2025-06-10,Pediatrics,Catonsville,Provider H,Follow-up,Returning,Medicaid,60,0,Cancelled,15,
+APT100072,2025-06-11,Primary Care,Columbia,Provider H,Telehealth,Returning,Medicare,29,75,Completed,30,3.1
+APT100769,2025-06-11,Primary Care,Columbia,Provider H,Annual Checkup,New,Medicare,56,86,Completed,15,1.9
+APT100105,2025-06-12,Primary Care,Catonsville,Provider I,Follow-up,Returning,Commercial,50,49,Completed,45,3.7
+APT100295,2025-06-12,Pediatrics,Towson,Provider J,Telehealth,Returning,Commercial,59,84,Completed,30,3.1
+APT100507,2025-06-12,Cardiology,Baltimore,Provider H,Telehealth,Returning,Medicaid,28,67,Completed,15,2.9
+APT100594,2025-06-12,Pediatrics,Catonsville,Provider J,Follow-up,Returning,Medicaid,48,0,Cancelled,30,
+APT100540,2025-06-13,Pediatrics,Towson,Provider G,Follow-up,Returning,Commercial,4,79,Completed,60,3.4
+APT100669,2025-06-13,Pediatrics,Towson,Provider J,Annual Checkup,Returning,Medicaid,52,69,Completed,30,2.9
+APT100691,2025-06-13,Cardiology,Catonsville,Provider B,Annual Checkup,New,Commercial,27,81,Completed,30,3.6
+APT100185,2025-06-14,Neurology,Baltimore,Provider H,Telehealth,Returning,Commercial,37,60,Completed,15,3.3
+APT100616,2025-06-14,Neurology,Towson,Provider E,Telehealth,New,Medicaid,20,73,Completed,60,3.2
+APT100750,2025-06-14,Orthopedics,Towson,Provider B,Follow-up,Returning,Commercial,29,0,Cancelled,30,
+APT101044,2025-06-14,Orthopedics,Columbia,Provider E,Urgent Care,Returning,Commercial,23,38,Completed,45,4.4
+APT100800,2025-06-15,Neurology,Baltimore,Provider G,New Patient,Returning,Medicare,41,49,Completed,30,4.2
+APT100047,2025-06-16,Pediatrics,Columbia,Provider E,Follow-up,Returning,Medicare,54,56,Completed,30,3.4
+APT100633,2025-06-16,Neurology,Columbia,Provider C,Annual Checkup,Returning,Commercial,26,51,Completed,15,3.9
+APT100514,2025-06-17,Orthopedics,Catonsville,Provider J,Annual Checkup,Returning,Medicaid,34,68,Completed,30,3.1
+APT100609,2025-06-17,Neurology,Towson,Provider I,New Patient,Returning,Medicare,9,57,Completed,30,3.6
+APT101009,2025-06-17,Neurology,Catonsville,Provider B,Follow-up,New,Commercial,57,22,Completed,30,5.0
+APT100297,2025-06-18,Neurology,Towson,Provider E,Telehealth,Returning,Medicaid,42,0,No-show,45,
+APT100032,2025-06-19,Primary Care,Columbia,Provider B,Urgent Care,Returning,Commercial,18,81,Completed,30,3.1
+APT100160,2025-06-19,Dermatology,Baltimore,Provider I,Follow-up,Returning,Commercial,19,58,Completed,30,3.9
+APT100374,2025-06-19,Orthopedics,Columbia,Provider A,Follow-up,Returning,Self-Pay,21,0,Cancelled,60,
+APT100407,2025-06-19,Primary Care,Catonsville,Provider I,New Patient,New,Commercial,1,61,Completed,30,3.3
+APT100610,2025-06-19,Pediatrics,Columbia,Provider J,Telehealth,Returning,Medicaid,25,84,Completed,30,2.1
+APT100845,2025-06-19,Primary Care,Catonsville,Provider F,Annual Checkup,Returning,Self-Pay,2,89,Completed,60,2.4
+APT100149,2025-06-20,Primary Care,Catonsville,Provider H,Annual Checkup,Returning,Commercial,24,0,Cancelled,30,
+APT101142,2025-06-20,Orthopedics,Catonsville,Provider H,Urgent Care,New,Medicare,39,0,No-show,30,
+APT100121,2025-06-21,Primary Care,Catonsville,Provider D,Follow-up,Returning,Commercial,30,70,Completed,15,2.8
+APT100189,2025-06-21,Cardiology,Baltimore,Provider I,Follow-up,Returning,Medicaid,33,6,Completed,15,4.7
+APT100217,2025-06-21,Orthopedics,Columbia,Provider F,Follow-up,Returning,Medicare,27,74,Completed,15,3.7
+APT100331,2025-06-21,Pediatrics,Columbia,Provider D,Follow-up,Returning,Medicaid,7,77,Completed,15,2.4
+APT101007,2025-06-21,Primary Care,Columbia,Provider G,Telehealth,New,Commercial,1,0,Cancelled,30,
+APT100383,2025-06-22,Dermatology,Catonsville,Provider I,Urgent Care,New,Medicare,44,0,No-show,15,
+APT100640,2025-06-22,Dermatology,Columbia,Provider G,New Patient,Returning,Commercial,45,20,Completed,30,4.7
+APT100658,2025-06-22,Dermatology,Baltimore,Provider B,New Patient,New,Medicare,12,10,Completed,45,5.0
+APT100660,2025-06-22,Neurology,Catonsville,Provider F,Follow-up,Returning,Commercial,24,0,No-show,30,
+APT100758,2025-06-22,Primary Care,Towson,Provider J,Follow-up,New,Medicare,8,0,No-show,30,
+APT100979,2025-06-22,Pediatrics,Towson,Provider E,Urgent Care,Returning,Commercial,31,27,Completed,45,4.5
+APT101112,2025-06-22,Primary Care,Catonsville,Provider A,New Patient,New,Commercial,28,71,Completed,30,3.1
+APT100360,2025-06-23,Primary Care,Catonsville,Provider B,Annual Checkup,New,Medicare,36,0,No-show,15,
+APT100607,2025-06-23,Pediatrics,Towson,Provider A,Annual Checkup,Returning,Commercial,42,41,Completed,15,4.8
+APT100036,2025-06-24,Primary Care,Towson,Provider G,Urgent Care,Returning,Commercial,29,22,Completed,30,4.2
+APT100307,2025-06-25,Orthopedics,Towson,Provider C,Follow-up,New,Medicare,3,67,Completed,30,3.5
+APT100372,2025-06-25,Dermatology,Catonsville,Provider E,New Patient,Returning,Medicaid,12,0,Cancelled,30,
+APT100544,2025-06-26,Primary Care,Towson,Provider I,Telehealth,New,Medicare,57,0,Cancelled,30,
+APT100568,2025-06-26,Orthopedics,Baltimore,Provider J,Annual Checkup,Returning,Medicare,52,0,Cancelled,45,
+APT100728,2025-06-26,Primary Care,Baltimore,Provider I,Telehealth,Returning,Medicaid,33,45,Completed,60,4.4
+APT100737,2025-06-26,Primary Care,Catonsville,Provider F,Follow-up,Returning,Medicare,41,0,Cancelled,30,
+APT101196,2025-06-26,Cardiology,Towson,Provider G,Urgent Care,New,Commercial,40,0,Cancelled,30,
+APT100506,2025-06-27,Dermatology,Baltimore,Provider D,Telehealth,Returning,Medicare,49,0,No-show,30,
+APT100696,2025-06-27,Primary Care,Columbia,Provider C,Follow-up,Returning,Commercial,8,28,Completed,30,4.6
+APT101003,2025-06-27,Dermatology,Towson,Provider D,Annual Checkup,Returning,Commercial,52,0,No-show,45,
+APT100138,2025-06-28,Primary Care,Towson,Provider I,Urgent Care,Returning,Medicare,30,57,Completed,30,3.1
+APT100509,2025-06-28,Neurology,Columbia,Provider J,Urgent Care,Returning,Commercial,23,56,Completed,30,3.0
+APT101060,2025-06-28,Orthopedics,Catonsville,Provider D,New Patient,New,Self-Pay,35,0,No-show,45,
+APT101076,2025-06-28,Orthopedics,Towson,Provider H,Follow-up,Returning,Commercial,19,0,No-show,30,
+APT101188,2025-06-28,Neurology,Baltimore,Provider E,Follow-up,Returning,Medicare,36,78,Completed,45,2.2
+APT100195,2025-06-29,Primary Care,Baltimore,Provider F,New Patient,Returning,Commercial,24,17,Completed,30,4.3
+APT100406,2025-06-29,Pediatrics,Towson,Provider G,New Patient,Returning,Medicaid,18,59,Completed,45,2.8
+APT100490,2025-06-29,Dermatology,Towson,Provider I,Urgent Care,Returning,Medicaid,48,66,Completed,30,3.2
+APT100880,2025-06-29,Primary Care,Catonsville,Provider A,Follow-up,Returning,Medicaid,30,47,Completed,30,4.2
+APT100936,2025-06-29,Cardiology,Baltimore,Provider F,Follow-up,New,Self-Pay,46,71,Completed,30,3.1
+APT101192,2025-06-29,Pediatrics,Baltimore,Provider B,Telehealth,New,Commercial,41,29,Completed,30,4.4
+APT100342,2025-06-30,Cardiology,Towson,Provider J,Follow-up,New,Commercial,17,0,No-show,45,
+APT100588,2025-06-30,Neurology,Columbia,Provider D,Follow-up,New,Medicare,50,23,Completed,15,4.0
+APT100632,2025-07-01,Orthopedics,Baltimore,Provider F,Follow-up,New,Medicare,18,35,Completed,30,4.3
+APT101163,2025-07-01,Neurology,Towson,Provider C,New Patient,New,Self-Pay,38,12,Completed,45,4.8
+APT101189,2025-07-01,Primary Care,Baltimore,Provider C,New Patient,Returning,Medicaid,41,71,Completed,45,3.1
+APT100554,2025-07-02,Dermatology,Baltimore,Provider C,Follow-up,New,Commercial,26,0,No-show,30,
+APT100826,2025-07-02,Neurology,Catonsville,Provider I,Follow-up,Returning,Commercial,4,72,Completed,30,2.5
+APT100224,2025-07-03,Cardiology,Catonsville,Provider J,New Patient,Returning,Commercial,59,0,Cancelled,30,
+APT100810,2025-07-03,Orthopedics,Towson,Provider F,Annual Checkup,New,Medicaid,9,28,Completed,45,4.8
+APT100831,2025-07-03,Cardiology,Catonsville,Provider B,Annual Checkup,New,Medicare,59,0,No-show,15,
+APT101103,2025-07-03,Orthopedics,Catonsville,Provider H,Urgent Care,New,Commercial,5,48,Completed,30,3.8
+APT100467,2025-07-04,Orthopedics,Columbia,Provider G,Follow-up,New,Medicare,57,25,Completed,60,4.6
+APT100397,2025-07-05,Neurology,Towson,Provider I,Telehealth,Returning,Medicaid,15,23,Completed,45,4.2
+APT100590,2025-07-05,Neurology,Catonsville,Provider J,Annual Checkup,Returning,Commercial,9,35,Completed,30,4.2
+APT100694,2025-07-05,Primary Care,Towson,Provider D,Urgent Care,Returning,Commercial,57,11,Completed,30,4.3
+APT100155,2025-07-06,Cardiology,Columbia,Provider A,Annual Checkup,Returning,Medicare,32,14,Completed,30,4.9
+APT100205,2025-07-06,Neurology,Towson,Provider B,Urgent Care,Returning,Medicare,12,7,Completed,30,5.0
+APT100237,2025-07-06,Cardiology,Towson,Provider D,Follow-up,Returning,Medicare,25,69,Completed,30,2.4
+APT100566,2025-07-06,Dermatology,Baltimore,Provider J,Follow-up,Returning,Self-Pay,18,24,Completed,30,3.6
+APT100893,2025-07-06,Dermatology,Catonsville,Provider H,Follow-up,Returning,Commercial,57,0,Cancelled,15,
+APT100033,2025-07-07,Pediatrics,Columbia,Provider I,Annual Checkup,New,Medicaid,43,39,Completed,45,4.4
+APT100090,2025-07-07,Primary Care,Columbia,Provider F,Follow-up,Returning,Commercial,9,0,No-show,45,
+APT100345,2025-07-07,Primary Care,Catonsville,Provider G,Telehealth,Returning,Self-Pay,6,49,Completed,30,4.7
+APT100006,2025-07-08,Cardiology,Catonsville,Provider E,Follow-up,Returning,Medicaid,11,0,Cancelled,60,
+APT100457,2025-07-08,Primary Care,Catonsville,Provider G,New Patient,Returning,Medicare,3,84,Completed,30,2.3
+APT100035,2025-07-09,Primary Care,Catonsville,Provider H,Annual Checkup,Returning,Commercial,33,83,Completed,30,3.3
+APT100080,2025-07-09,Primary Care,Baltimore,Provider G,Follow-up,Returning,Medicare,10,5,Completed,30,4.7
+APT100174,2025-07-09,Primary Care,Columbia,Provider J,New Patient,Returning,Commercial,12,84,Completed,45,2.9
+APT100399,2025-07-09,Neurology,Baltimore,Provider B,Follow-up,Returning,Commercial,44,63,Completed,30,3.9
+APT100550,2025-07-09,Dermatology,Towson,Provider B,Follow-up,New,Commercial,1,0,Cancelled,45,
+APT100651,2025-07-09,Primary Care,Columbia,Provider A,Annual Checkup,Returning,Medicaid,35,0,Cancelled,30,
+APT100069,2025-07-10,Primary Care,Columbia,Provider A,Annual Checkup,Returning,Commercial,1,33,Completed,30,4.3
+APT100347,2025-07-10,Pediatrics,Towson,Provider E,Follow-up,Returning,Commercial,49,0,No-show,30,
+APT100652,2025-07-10,Cardiology,Baltimore,Provider F,Annual Checkup,New,Commercial,37,63,Completed,45,3.2
+APT100022,2025-07-11,Dermatology,Columbia,Provider B,Follow-up,Returning,Commercial,22,83,Completed,15,2.1
+APT100328,2025-07-11,Dermatology,Catonsville,Provider G,Urgent Care,Returning,Commercial,16,23,Completed,60,4.8
+APT100458,2025-07-11,Primary Care,Towson,Provider B,New Patient,New,Commercial,1,41,Completed,30,4.6
+APT100542,2025-07-11,Cardiology,Towson,Provider F,New Patient,Returning,Commercial,5,33,Completed,45,3.6
+APT100702,2025-07-11,Primary Care,Columbia,Provider J,Follow-up,Returning,Commercial,12,28,Completed,45,4.3
+APT100788,2025-07-11,Dermatology,Towson,Provider G,Urgent Care,New,Medicare,23,63,Completed,30,3.9
+APT100905,2025-07-11,Cardiology,Catonsville,Provider G,Annual Checkup,Returning,Medicare,26,16,Completed,60,5.0
+APT100293,2025-07-13,Primary Care,Catonsville,Provider G,Annual Checkup,Returning,Medicare,16,0,No-show,60,
+APT100613,2025-07-13,Neurology,Baltimore,Provider H,Telehealth,Returning,Commercial,2,44,Completed,30,4.3
+APT100975,2025-07-13,Primary Care,Baltimore,Provider J,Follow-up,New,Medicaid,9,30,Completed,30,4.6
+APT100304,2025-07-14,Pediatrics,Columbia,Provider D,Follow-up,New,Medicare,17,0,No-show,30,
+APT100833,2025-07-14,Neurology,Towson,Provider B,Annual Checkup,Returning,Medicaid,23,83,Completed,60,2.8
+APT100835,2025-07-14,Orthopedics,Towson,Provider F,Follow-up,New,Medicare,5,84,Completed,45,2.5
+APT100418,2025-07-15,Dermatology,Catonsville,Provider A,New Patient,Returning,Medicaid,19,14,Completed,30,5.0
+APT100533,2025-07-15,Neurology,Baltimore,Provider C,Follow-up,Returning,Medicare,33,43,Completed,45,3.4
+APT101088,2025-07-15,Dermatology,Columbia,Provider G,Follow-up,Returning,Commercial,3,81,Completed,30,3.2
+APT100713,2025-07-16,Orthopedics,Catonsville,Provider D,Annual Checkup,Returning,Medicaid,19,11,Completed,30,4.8
+APT100743,2025-07-16,Pediatrics,Baltimore,Provider A,Follow-up,Returning,Commercial,25,81,Completed,15,3.8
+APT100182,2025-07-17,Cardiology,Catonsville,Provider I,Annual Checkup,Returning,Medicare,4,21,Completed,45,4.5
+APT100220,2025-07-17,Pediatrics,Catonsville,Provider E,Urgent Care,New,Medicare,31,67,Completed,60,2.7
+APT100231,2025-07-17,Cardiology,Baltimore,Provider H,Follow-up,Returning,Medicare,16,30,Completed,30,4.7
+APT100946,2025-07-17,Neurology,Baltimore,Provider H,New Patient,New,Commercial,2,86,Completed,30,2.7
+APT101073,2025-07-17,Neurology,Baltimore,Provider A,Annual Checkup,New,Medicare,7,0,Cancelled,30,
+APT101193,2025-07-17,Dermatology,Baltimore,Provider F,New Patient,Returning,Medicare,7,90,Completed,30,2.5
+APT100247,2025-07-18,Pediatrics,Baltimore,Provider A,New Patient,New,Medicaid,45,0,No-show,30,
+APT101129,2025-07-19,Cardiology,Towson,Provider J,Urgent Care,Returning,Commercial,31,0,Cancelled,30,
+APT100112,2025-07-20,Pediatrics,Baltimore,Provider F,Follow-up,New,Medicaid,36,6,Completed,30,5.0
+APT100235,2025-07-20,Neurology,Baltimore,Provider C,Telehealth,New,Commercial,52,51,Completed,45,3.5
+APT100704,2025-07-20,Primary Care,Catonsville,Provider I,Annual Checkup,Returning,Medicare,41,0,Cancelled,30,
+APT100073,2025-07-21,Pediatrics,Towson,Provider I,Telehealth,Returning,Commercial,57,16,Completed,30,5.0
+APT100635,2025-07-21,Cardiology,Columbia,Provider H,Follow-up,New,Commercial,36,0,Cancelled,30,
+APT100751,2025-07-21,Pediatrics,Towson,Provider F,Telehealth,Returning,Self-Pay,16,32,Completed,45,3.8
+APT100908,2025-07-21,Primary Care,Towson,Provider F,New Patient,Returning,Medicaid,33,53,Completed,60,3.4
+APT101171,2025-07-21,Primary Care,Catonsville,Provider I,Follow-up,Returning,Medicare,14,65,Completed,30,3.5
+APT100223,2025-07-22,Orthopedics,Columbia,Provider E,Follow-up,Returning,Commercial,41,0,Cancelled,30,
+APT100666,2025-07-22,Cardiology,Towson,Provider B,New Patient,Returning,Commercial,22,75,Completed,30,2.5
+APT100977,2025-07-22,Cardiology,Towson,Provider C,Follow-up,New,Medicaid,2,35,Completed,30,4.7
+APT100474,2025-07-23,Orthopedics,Baltimore,Provider D,Follow-up,Returning,Medicare,38,39,Completed,60,3.5
+APT100759,2025-07-24,Primary Care,Catonsville,Provider C,Annual Checkup,New,Medicaid,56,0,Cancelled,60,
+APT100818,2025-07-24,Cardiology,Baltimore,Provider C,Annual Checkup,Returning,Medicaid,22,80,Completed,30,2.7
+APT100060,2025-07-25,Primary Care,Catonsville,Provider B,Urgent Care,Returning,Commercial,24,42,Completed,30,4.3
+APT100574,2025-07-25,Primary Care,Baltimore,Provider F,Urgent Care,Returning,Medicare,3,6,Completed,15,4.4
+APT100134,2025-07-26,Primary Care,Baltimore,Provider G,Follow-up,Returning,Commercial,28,0,No-show,45,
+APT100782,2025-07-26,Primary Care,Columbia,Provider C,Annual Checkup,Returning,Commercial,34,0,Cancelled,30,
+APT100881,2025-07-26,Primary Care,Catonsville,Provider G,Follow-up,Returning,Medicaid,39,45,Completed,30,3.3
+APT100083,2025-07-27,Neurology,Baltimore,Provider J,Follow-up,Returning,Medicare,36,88,Completed,45,2.5
+APT100275,2025-07-27,Pediatrics,Towson,Provider E,Follow-up,Returning,Medicare,22,67,Completed,45,3.1
+APT100296,2025-07-27,Primary Care,Baltimore,Provider H,Follow-up,Returning,Medicare,2,72,Completed,30,4.4
+APT101138,2025-07-29,Dermatology,Baltimore,Provider I,Urgent Care,Returning,Medicare,32,0,Cancelled,30,
+APT101182,2025-07-29,Pediatrics,Baltimore,Provider G,Follow-up,Returning,Medicaid,51,48,Completed,45,3.4
+APT100705,2025-07-31,Neurology,Baltimore,Provider E,Telehealth,Returning,Commercial,55,0,Cancelled,30,
+APT100918,2025-07-31,Dermatology,Towson,Provider F,Follow-up,New,Medicare,40,57,Completed,30,2.9
+APT100986,2025-07-31,Dermatology,Columbia,Provider J,New Patient,New,Medicaid,28,0,Cancelled,30,
+APT100082,2025-08-01,Dermatology,Columbia,Provider H,Follow-up,New,Self-Pay,17,44,Completed,30,4.3
+APT100665,2025-08-01,Cardiology,Columbia,Provider E,Follow-up,Returning,Medicaid,60,18,Completed,15,4.2
+APT101043,2025-08-01,Pediatrics,Catonsville,Provider B,Telehealth,New,Medicaid,47,82,Completed,45,3.1
+APT100123,2025-08-02,Primary Care,Catonsville,Provider H,New Patient,Returning,Medicare,60,47,Completed,30,3.9
+APT100864,2025-08-02,Dermatology,Towson,Provider H,Annual Checkup,New,Commercial,33,66,Completed,30,3.2
+APT100885,2025-08-02,Pediatrics,Catonsville,Provider D,Follow-up,New,Medicaid,49,51,Completed,30,3.6
+APT101156,2025-08-02,Pediatrics,Baltimore,Provider H,Annual Checkup,New,Commercial,48,76,Completed,15,2.9
+APT100010,2025-08-03,Pediatrics,Catonsville,Provider F,Annual Checkup,Returning,Self-Pay,52,22,Completed,30,4.0
+APT100078,2025-08-03,Neurology,Catonsville,Provider A,Follow-up,Returning,Medicare,22,40,Completed,30,5.0
+APT100393,2025-08-03,Primary Care,Baltimore,Provider I,Follow-up,New,Medicare,52,85,Completed,30,2.5
+APT100525,2025-08-03,Orthopedics,Columbia,Provider I,Telehealth,Returning,Commercial,23,63,Completed,30,4.3
+APT100595,2025-08-03,Primary Care,Columbia,Provider B,Urgent Care,Returning,Medicaid,21,17,Completed,30,4.7
+APT100118,2025-08-04,Primary Care,Baltimore,Provider B,Follow-up,Returning,Commercial,10,0,No-show,30,
+APT100889,2025-08-04,Orthopedics,Towson,Provider F,Follow-up,New,Medicaid,1,57,Completed,30,3.4
+APT101102,2025-08-04,Cardiology,Baltimore,Provider H,Urgent Care,Returning,Medicaid,24,38,Completed,30,5.0
+APT100088,2025-08-05,Pediatrics,Catonsville,Provider B,Annual Checkup,Returning,Medicaid,21,37,Completed,30,4.8
+APT100537,2025-08-05,Dermatology,Catonsville,Provider F,Follow-up,Returning,Medicaid,8,0,Cancelled,30,
+APT100557,2025-08-05,Dermatology,Catonsville,Provider I,New Patient,New,Medicaid,8,10,Completed,30,5.0
+APT100564,2025-08-05,Orthopedics,Baltimore,Provider A,Follow-up,Returning,Commercial,26,89,Completed,30,1.9
+APT100624,2025-08-05,Pediatrics,Baltimore,Provider B,Telehealth,Returning,Medicare,25,21,Completed,15,4.8
+APT100733,2025-08-05,Orthopedics,Columbia,Provider A,Annual Checkup,New,Medicaid,16,30,Completed,30,4.9
+APT100070,2025-08-06,Cardiology,Catonsville,Provider F,Follow-up,Returning,Commercial,56,30,Completed,15,3.4
+APT100130,2025-08-06,Dermatology,Columbia,Provider F,Telehealth,Returning,Medicaid,25,9,Completed,30,4.7
+APT100218,2025-08-06,Cardiology,Columbia,Provider F,New Patient,Returning,Medicare,12,15,Completed,30,4.6
+APT100475,2025-08-06,Dermatology,Baltimore,Provider H,New Patient,Returning,Medicaid,49,19,Completed,30,4.5
+APT100857,2025-08-06,Primary Care,Baltimore,Provider B,Follow-up,Returning,Commercial,43,86,Completed,30,2.5
+APT101135,2025-08-06,Cardiology,Catonsville,Provider A,Annual Checkup,Returning,Medicare,39,0,Cancelled,60,
+APT100209,2025-08-08,Neurology,Towson,Provider H,New Patient,New,Commercial,15,33,Completed,30,3.9
+APT100332,2025-08-08,Neurology,Columbia,Provider G,Telehealth,New,Medicaid,31,23,Completed,30,4.2
+APT100469,2025-08-08,Cardiology,Columbia,Provider B,Follow-up,Returning,Commercial,14,65,Completed,30,4.4
+APT100643,2025-08-08,Pediatrics,Columbia,Provider C,Annual Checkup,Returning,Medicare,27,78,Completed,45,2.7
+APT100698,2025-08-08,Pediatrics,Catonsville,Provider E,Follow-up,New,Medicare,18,87,Completed,30,2.8
+APT100706,2025-08-08,Dermatology,Towson,Provider J,Follow-up,Returning,Commercial,5,57,Completed,30,3.5
+APT100967,2025-08-08,Pediatrics,Catonsville,Provider C,New Patient,Returning,Medicare,51,0,Cancelled,30,
+APT100596,2025-08-09,Primary Care,Baltimore,Provider F,Annual Checkup,New,Medicaid,19,62,Completed,30,2.6
+APT100145,2025-08-10,Orthopedics,Catonsville,Provider A,Annual Checkup,Returning,Self-Pay,56,45,Completed,15,3.4
+APT100481,2025-08-10,Primary Care,Baltimore,Provider F,Follow-up,New,Commercial,33,0,No-show,30,
+APT100776,2025-08-10,Pediatrics,Catonsville,Provider J,Urgent Care,Returning,Medicare,39,60,Completed,30,3.6
+APT100355,2025-08-11,Primary Care,Catonsville,Provider D,Urgent Care,Returning,Medicare,54,90,Completed,15,2.1
+APT100491,2025-08-11,Pediatrics,Catonsville,Provider C,Annual Checkup,Returning,Commercial,46,0,Cancelled,30,
+APT100575,2025-08-11,Dermatology,Catonsville,Provider D,New Patient,New,Commercial,60,54,Completed,30,3.4
+APT100591,2025-08-11,Dermatology,Columbia,Provider F,Annual Checkup,Returning,Medicare,13,71,Completed,30,2.5
+APT100964,2025-08-11,Cardiology,Catonsville,Provider C,Telehealth,Returning,Commercial,11,35,Completed,30,4.3
+APT100212,2025-08-12,Dermatology,Catonsville,Provider G,New Patient,New,Commercial,27,38,Completed,30,3.8
+APT100551,2025-08-12,Primary Care,Baltimore,Provider E,Urgent Care,New,Medicare,4,38,Completed,30,3.7
+APT100684,2025-08-12,Primary Care,Catonsville,Provider F,Annual Checkup,Returning,Commercial,48,49,Completed,30,4.3
+APT100726,2025-08-12,Dermatology,Towson,Provider G,Urgent Care,Returning,Commercial,53,12,Completed,30,4.7
+APT100175,2025-08-13,Orthopedics,Catonsville,Provider C,Follow-up,Returning,Commercial,60,0,Cancelled,15,
+APT100186,2025-08-13,Dermatology,Towson,Provider J,Urgent Care,Returning,Self-Pay,46,56,Completed,45,3.2
+APT100213,2025-08-13,Neurology,Catonsville,Provider A,Telehealth,New,Commercial,22,88,Completed,15,2.4
+APT100987,2025-08-13,Primary Care,Towson,Provider I,Annual Checkup,Returning,Commercial,8,78,Completed,30,2.9
+APT101068,2025-08-13,Cardiology,Towson,Provider C,Urgent Care,New,Commercial,25,32,Completed,60,4.1
+APT100318,2025-08-14,Neurology,Columbia,Provider D,Follow-up,New,Self-Pay,22,0,Cancelled,30,
+APT100790,2025-08-14,Dermatology,Columbia,Provider J,New Patient,Returning,Commercial,30,0,No-show,15,
+APT100939,2025-08-14,Primary Care,Catonsville,Provider E,Follow-up,New,Medicaid,48,47,Completed,45,4.6
+APT100125,2025-08-15,Cardiology,Columbia,Provider G,Annual Checkup,New,Commercial,1,75,Completed,30,1.5
+APT100287,2025-08-15,Primary Care,Baltimore,Provider E,Follow-up,Returning,Commercial,40,40,Completed,15,4.4
+APT100543,2025-08-15,Neurology,Baltimore,Provider D,New Patient,New,Commercial,33,78,Completed,45,2.6
+APT100670,2025-08-15,Orthopedics,Baltimore,Provider I,Urgent Care,Returning,Commercial,20,0,No-show,30,
+APT100903,2025-08-15,Orthopedics,Baltimore,Provider C,New Patient,Returning,Medicaid,51,50,Completed,30,3.8
+APT100701,2025-08-16,Orthopedics,Towson,Provider H,Telehealth,New,Commercial,1,44,Completed,30,4.4
+APT100926,2025-08-16,Cardiology,Towson,Provider H,New Patient,New,Medicaid,30,11,Completed,30,5.0
+APT101100,2025-08-16,Primary Care,Columbia,Provider E,New Patient,Returning,Medicare,33,0,Cancelled,30,
+APT100439,2025-08-17,Primary Care,Catonsville,Provider C,Follow-up,Returning,Commercial,4,0,Cancelled,45,
+APT100668,2025-08-17,Dermatology,Catonsville,Provider F,New Patient,Returning,Medicaid,19,55,Completed,30,3.3
+APT100783,2025-08-17,Pediatrics,Catonsville,Provider F,Follow-up,Returning,Commercial,46,12,Completed,30,4.9
+APT100942,2025-08-17,Neurology,Towson,Provider F,Urgent Care,Returning,Medicaid,23,0,No-show,45,
+APT100962,2025-08-17,Orthopedics,Columbia,Provider D,Annual Checkup,Returning,Commercial,48,7,Completed,30,4.1
+APT101038,2025-08-17,Dermatology,Baltimore,Provider D,Telehealth,Returning,Medicaid,22,0,No-show,30,
+APT100312,2025-08-18,Neurology,Columbia,Provider C,Urgent Care,Returning,Commercial,7,76,Completed,45,2.5
+APT100605,2025-08-18,Neurology,Columbia,Provider C,Follow-up,New,Commercial,20,76,Completed,45,2.7
+APT100108,2025-08-19,Neurology,Catonsville,Provider G,Telehealth,Returning,Commercial,47,78,Completed,30,3.1
+APT100141,2025-08-19,Cardiology,Baltimore,Provider E,New Patient,Returning,Medicare,48,47,Completed,60,3.4
+APT100146,2025-08-19,Dermatology,Catonsville,Provider A,Telehealth,Returning,Medicare,1,81,Completed,30,2.7
+APT100173,2025-08-19,Neurology,Baltimore,Provider B,New Patient,Returning,Commercial,49,7,Completed,30,5.0
+APT100911,2025-08-19,Dermatology,Baltimore,Provider F,Annual Checkup,Returning,Medicaid,33,18,Completed,45,4.6
+APT101082,2025-08-19,Primary Care,Towson,Provider A,Follow-up,New,Commercial,59,0,Cancelled,30,
+APT100179,2025-08-21,Neurology,Towson,Provider A,Telehealth,New,Commercial,43,34,Completed,30,4.7
+APT100194,2025-08-21,Primary Care,Columbia,Provider F,Follow-up,Returning,Medicare,38,8,Completed,45,4.8
+APT100271,2025-08-21,Orthopedics,Catonsville,Provider G,Telehealth,New,Commercial,58,38,Completed,30,3.8
+APT100337,2025-08-21,Orthopedics,Towson,Provider I,Follow-up,New,Self-Pay,28,27,Completed,15,4.5
+APT100570,2025-08-21,Neurology,Columbia,Provider F,Annual Checkup,New,Medicaid,12,41,Completed,15,3.8
+APT100674,2025-08-21,Primary Care,Columbia,Provider F,New Patient,New,Commercial,10,86,Completed,45,3.6
+APT100851,2025-08-21,Primary Care,Baltimore,Provider F,Annual Checkup,Returning,Commercial,13,0,Cancelled,30,
+APT100922,2025-08-21,Neurology,Towson,Provider D,Annual Checkup,New,Commercial,19,57,Completed,45,3.2
+APT100188,2025-08-22,Neurology,Catonsville,Provider E,Annual Checkup,New,Commercial,15,24,Completed,30,4.9
+APT100597,2025-08-23,Cardiology,Towson,Provider B,Telehealth,New,Commercial,25,22,Completed,60,4.7
+APT100820,2025-08-23,Dermatology,Towson,Provider F,Follow-up,Returning,Commercial,13,65,Completed,60,3.6
+APT100028,2025-08-24,Primary Care,Columbia,Provider F,Urgent Care,New,Commercial,4,30,Completed,15,4.4
+APT100775,2025-08-24,Cardiology,Columbia,Provider C,Telehealth,Returning,Medicaid,29,77,Completed,30,3.3
+APT100931,2025-08-24,Dermatology,Baltimore,Provider A,New Patient,Returning,Commercial,53,79,Completed,30,4.0
+APT101024,2025-08-24,Pediatrics,Columbia,Provider D,Urgent Care,Returning,Self-Pay,52,19,Completed,45,5.0
+APT100084,2025-08-25,Orthopedics,Catonsville,Provider F,Follow-up,New,Commercial,56,0,Cancelled,15,
+APT100147,2025-08-25,Pediatrics,Baltimore,Provider D,Telehealth,New,Medicare,12,83,Completed,30,1.6
+APT100455,2025-08-25,Orthopedics,Baltimore,Provider D,New Patient,Returning,Commercial,55,0,Cancelled,30,
+APT101051,2025-08-25,Primary Care,Towson,Provider H,Telehealth,Returning,Medicare,5,0,Cancelled,15,
+APT100309,2025-08-26,Neurology,Towson,Provider I,Follow-up,Returning,Commercial,52,56,Completed,30,2.9
+APT100473,2025-08-26,Pediatrics,Towson,Provider B,Annual Checkup,Returning,Commercial,13,11,Completed,30,4.8
+APT100898,2025-08-26,Primary Care,Towson,Provider J,Annual Checkup,New,Commercial,43,0,Cancelled,30,
+APT100448,2025-08-27,Cardiology,Columbia,Provider E,Annual Checkup,New,Medicare,35,0,Cancelled,15,
+APT100600,2025-08-27,Pediatrics,Catonsville,Provider E,New Patient,New,Commercial,11,59,Completed,30,3.4
+APT100727,2025-08-27,Pediatrics,Baltimore,Provider F,Telehealth,New,Commercial,31,0,Cancelled,30,
+APT100865,2025-08-27,Dermatology,Baltimore,Provider I,Telehealth,Returning,Medicare,29,0,No-show,30,
+APT100900,2025-08-27,Cardiology,Catonsville,Provider J,New Patient,Returning,Self-Pay,33,84,Completed,30,2.3
+APT100232,2025-08-28,Primary Care,Towson,Provider F,Annual Checkup,New,Commercial,7,0,No-show,30,
+APT100707,2025-08-28,Orthopedics,Catonsville,Provider D,Follow-up,New,Medicare,59,58,Completed,30,3.1
+APT100822,2025-08-28,Dermatology,Baltimore,Provider G,Follow-up,Returning,Commercial,59,44,Completed,15,4.3
+APT100142,2025-08-29,Orthopedics,Catonsville,Provider H,Follow-up,Returning,Medicare,8,0,Cancelled,30,
+APT100052,2025-08-30,Neurology,Baltimore,Provider F,Telehealth,Returning,Medicaid,15,81,Completed,15,3.3
+APT100523,2025-08-30,Pediatrics,Baltimore,Provider J,New Patient,Returning,Medicaid,22,60,Completed,15,3.6
+APT100642,2025-08-30,Primary Care,Baltimore,Provider H,New Patient,New,Medicare,33,77,Completed,45,3.0
+APT100718,2025-08-30,Cardiology,Columbia,Provider G,Annual Checkup,New,Commercial,25,63,Completed,45,2.9
+APT100156,2025-08-31,Primary Care,Columbia,Provider B,Annual Checkup,Returning,Medicare,42,0,Cancelled,45,
+APT100959,2025-08-31,Primary Care,Towson,Provider C,Follow-up,Returning,Medicare,2,7,Completed,60,5.0
+APT101116,2025-08-31,Neurology,Towson,Provider J,Telehealth,Returning,Commercial,44,0,Cancelled,45,
+APT100040,2025-09-01,Primary Care,Catonsville,Provider F,Follow-up,Returning,Medicare,9,49,Completed,30,3.7
+APT101177,2025-09-01,Cardiology,Columbia,Provider C,Annual Checkup,Returning,Self-Pay,43,73,Completed,30,3.2
+APT100371,2025-09-03,Dermatology,Catonsville,Provider F,Follow-up,New,Medicaid,45,67,Completed,60,2.8
+APT100486,2025-09-03,Cardiology,Columbia,Provider F,Telehealth,Returning,Medicare,31,0,Cancelled,30,
+APT100221,2025-09-04,Neurology,Catonsville,Provider J,Urgent Care,New,Commercial,32,25,Completed,15,4.7
+APT100375,2025-09-04,Pediatrics,Towson,Provider G,New Patient,New,Commercial,19,63,Completed,15,2.9
+APT100462,2025-09-04,Neurology,Catonsville,Provider I,New Patient,New,Medicare,46,52,Completed,30,4.0
+APT100501,2025-09-04,Primary Care,Towson,Provider G,Telehealth,Returning,Commercial,3,19,Completed,45,5.0
+APT100803,2025-09-04,Dermatology,Columbia,Provider A,Follow-up,Returning,Commercial,37,26,Completed,60,4.7
+APT100958,2025-09-04,Primary Care,Columbia,Provider C,Follow-up,New,Commercial,29,51,Completed,30,3.6
+APT100539,2025-09-06,Cardiology,Towson,Provider J,New Patient,Returning,Medicare,52,82,Completed,30,2.6
+APT100799,2025-09-06,Neurology,Baltimore,Provider A,New Patient,Returning,Commercial,16,24,Completed,30,5.0
+APT100824,2025-09-06,Dermatology,Towson,Provider C,Annual Checkup,Returning,Commercial,17,5,Completed,30,4.8
+APT100861,2025-09-06,Neurology,Towson,Provider H,Follow-up,Returning,Commercial,26,81,Completed,30,3.0
+APT100484,2025-09-07,Primary Care,Baltimore,Provider I,Annual Checkup,Returning,Commercial,5,25,Completed,30,3.8
+APT100492,2025-09-07,Orthopedics,Columbia,Provider F,Annual Checkup,Returning,Medicare,33,90,Completed,30,3.4
+APT100768,2025-09-07,Orthopedics,Baltimore,Provider F,New Patient,New,Commercial,50,84,Completed,30,2.0
+APT100719,2025-09-08,Neurology,Catonsville,Provider A,Follow-up,Returning,Commercial,58,5,Completed,45,4.6
+APT100777,2025-09-08,Neurology,Baltimore,Provider H,Telehealth,New,Commercial,27,60,Completed,30,4.1
+APT101187,2025-09-08,Orthopedics,Towson,Provider H,Follow-up,Returning,Medicaid,45,0,No-show,15,
+APT100079,2025-09-09,Orthopedics,Columbia,Provider D,New Patient,Returning,Commercial,11,71,Completed,30,4.0
+APT100089,2025-09-09,Pediatrics,Baltimore,Provider E,Follow-up,New,Commercial,13,59,Completed,30,3.4
+APT100242,2025-09-09,Primary Care,Towson,Provider B,Urgent Care,Returning,Commercial,36,61,Completed,30,4.0
+APT100259,2025-09-09,Orthopedics,Columbia,Provider D,Annual Checkup,New,Medicare,37,8,Completed,45,5.0
+APT100629,2025-09-09,Neurology,Catonsville,Provider G,Telehealth,Returning,Medicare,3,49,Completed,15,4.5
+APT100667,2025-09-09,Pediatrics,Columbia,Provider B,Urgent Care,New,Commercial,34,0,No-show,30,
+APT100789,2025-09-09,Primary Care,Towson,Provider H,Urgent Care,Returning,Medicare,39,57,Completed,30,3.4
+APT100027,2025-09-10,Primary Care,Columbia,Provider H,Telehealth,New,Commercial,42,0,No-show,60,
+APT100348,2025-09-10,Primary Care,Columbia,Provider D,New Patient,Returning,Medicaid,9,0,Cancelled,30,
+APT100522,2025-09-10,Primary Care,Baltimore,Provider B,Follow-up,Returning,Self-Pay,24,12,Completed,30,4.6
+APT100604,2025-09-10,Dermatology,Catonsville,Provider J,Annual Checkup,Returning,Medicare,39,28,Completed,60,4.2
+APT100710,2025-09-10,Pediatrics,Baltimore,Provider G,Telehealth,New,Medicaid,49,0,No-show,15,
+APT100879,2025-09-10,Neurology,Baltimore,Provider J,Urgent Care,Returning,Commercial,29,53,Completed,30,3.7
+APT100266,2025-09-11,Primary Care,Columbia,Provider A,New Patient,Returning,Medicaid,21,53,Completed,30,3.5
+APT100286,2025-09-11,Pediatrics,Baltimore,Provider C,Telehealth,Returning,Commercial,17,0,No-show,30,
+APT100480,2025-09-11,Primary Care,Columbia,Provider A,Annual Checkup,New,Commercial,39,90,Completed,45,2.4
+APT101087,2025-09-11,Pediatrics,Columbia,Provider B,Follow-up,Returning,Self-Pay,42,0,Cancelled,15,
+APT101124,2025-09-11,Cardiology,Baltimore,Provider F,Follow-up,Returning,Commercial,60,68,Completed,30,3.6
+APT100131,2025-09-12,Pediatrics,Towson,Provider I,Urgent Care,Returning,Commercial,26,59,Completed,60,4.4
+APT100226,2025-09-12,Orthopedics,Catonsville,Provider H,New Patient,New,Commercial,35,16,Completed,30,4.8
+APT100780,2025-09-12,Orthopedics,Columbia,Provider B,Follow-up,Returning,Commercial,17,62,Completed,30,4.2
+APT100350,2025-09-13,Orthopedics,Baltimore,Provider C,Urgent Care,Returning,Medicare,17,6,Completed,15,5.0
+APT100712,2025-09-13,Pediatrics,Towson,Provider E,Urgent Care,New,Medicare,1,10,Completed,60,5.0
+APT100128,2025-09-14,Cardiology,Columbia,Provider D,Follow-up,Returning,Commercial,33,72,Completed,30,3.8
+APT100495,2025-09-14,Neurology,Baltimore,Provider G,Telehealth,Returning,Commercial,10,60,Completed,30,3.7
+APT100875,2025-09-14,Primary Care,Towson,Provider C,Follow-up,New,Medicaid,35,0,Cancelled,45,
+APT101158,2025-09-14,Primary Care,Columbia,Provider J,Follow-up,New,Medicaid,20,75,Completed,60,2.9
+APT100019,2025-09-15,Pediatrics,Columbia,Provider B,Follow-up,Returning,Medicaid,60,7,Completed,30,4.2
+APT100502,2025-09-15,Dermatology,Catonsville,Provider G,New Patient,New,Medicaid,59,0,Cancelled,30,
+APT100180,2025-09-16,Primary Care,Towson,Provider B,Urgent Care,Returning,Self-Pay,57,0,Cancelled,30,
+APT100240,2025-09-16,Neurology,Towson,Provider H,Urgent Care,Returning,Commercial,48,0,Cancelled,30,
+APT100680,2025-09-16,Neurology,Catonsville,Provider F,Annual Checkup,Returning,Commercial,16,0,No-show,30,
+APT100747,2025-09-16,Pediatrics,Catonsville,Provider B,Telehealth,New,Commercial,59,0,No-show,15,
+APT100771,2025-09-16,Neurology,Baltimore,Provider I,Telehealth,Returning,Commercial,9,83,Completed,45,2.8
+APT101001,2025-09-16,Cardiology,Catonsville,Provider A,Telehealth,New,Medicare,2,31,Completed,45,4.1
+APT100067,2025-09-17,Orthopedics,Baltimore,Provider C,New Patient,Returning,Commercial,15,53,Completed,30,3.5
+APT100760,2025-09-17,Neurology,Towson,Provider D,Follow-up,Returning,Commercial,5,65,Completed,30,2.8
+APT100107,2025-09-18,Primary Care,Columbia,Provider A,New Patient,New,Medicare,14,48,Completed,30,3.0
+APT101005,2025-09-18,Neurology,Catonsville,Provider I,Annual Checkup,Returning,Commercial,2,5,Completed,30,5.0
+APT101107,2025-09-18,Dermatology,Towson,Provider H,New Patient,Returning,Commercial,47,6,Completed,30,4.9
+APT100419,2025-09-19,Primary Care,Baltimore,Provider A,Telehealth,New,Commercial,29,60,Completed,15,3.3
+APT100816,2025-09-19,Neurology,Columbia,Provider F,Annual Checkup,Returning,Self-Pay,53,0,No-show,30,
+APT100258,2025-09-20,Primary Care,Columbia,Provider B,Follow-up,Returning,Medicare,27,56,Completed,30,4.2
+APT100058,2025-09-21,Neurology,Columbia,Provider F,Follow-up,New,Commercial,36,84,Completed,60,3.2
+APT100315,2025-09-21,Pediatrics,Catonsville,Provider C,Follow-up,New,Medicare,45,0,No-show,30,
+APT100386,2025-09-21,Pediatrics,Catonsville,Provider D,Annual Checkup,New,Self-Pay,40,0,Cancelled,15,
+APT100412,2025-09-21,Dermatology,Baltimore,Provider F,Annual Checkup,Returning,Commercial,59,89,Completed,30,3.0
+APT100528,2025-09-21,Neurology,Columbia,Provider G,New Patient,Returning,Self-Pay,18,52,Completed,30,2.8
+APT100930,2025-09-21,Cardiology,Towson,Provider D,Annual Checkup,Returning,Commercial,9,9,Completed,15,4.8
+APT100053,2025-09-22,Neurology,Catonsville,Provider J,Telehealth,Returning,Medicare,2,48,Completed,45,3.7
+APT100572,2025-09-22,Primary Care,Catonsville,Provider E,Follow-up,New,Commercial,42,44,Completed,30,3.5
+APT101017,2025-09-22,Orthopedics,Columbia,Provider I,Follow-up,New,Commercial,42,0,Cancelled,30,
+APT100254,2025-09-24,Dermatology,Baltimore,Provider A,Annual Checkup,New,Medicaid,53,90,Completed,30,2.5
+APT100729,2025-09-24,Pediatrics,Columbia,Provider F,Follow-up,Returning,Medicaid,47,7,Completed,45,4.8
+APT101036,2025-09-24,Pediatrics,Columbia,Provider H,Annual Checkup,Returning,Commercial,50,64,Completed,30,2.6
+APT101157,2025-09-24,Neurology,Towson,Provider D,Telehealth,Returning,Medicaid,32,77,Completed,60,3.0
+APT100114,2025-09-25,Neurology,Baltimore,Provider H,New Patient,New,Medicare,34,0,No-show,15,
+APT100199,2025-09-25,Primary Care,Baltimore,Provider D,Follow-up,Returning,Medicare,34,10,Completed,30,4.7
+APT100511,2025-09-25,Neurology,Columbia,Provider I,Annual Checkup,Returning,Medicare,32,0,Cancelled,30,
+APT100553,2025-09-25,Primary Care,Columbia,Provider F,Follow-up,Returning,Medicaid,54,0,Cancelled,30,
+APT100773,2025-09-25,Dermatology,Baltimore,Provider A,Follow-up,Returning,Medicaid,18,59,Completed,30,4.0
+APT100427,2025-09-26,Cardiology,Baltimore,Provider B,Annual Checkup,Returning,Medicare,49,64,Completed,60,3.0
+APT100074,2025-09-27,Cardiology,Baltimore,Provider D,Telehealth,New,Medicaid,1,0,Cancelled,60,
+APT101039,2025-09-27,Cardiology,Towson,Provider F,Telehealth,New,Commercial,55,15,Completed,30,4.3
+APT100003,2025-09-28,Primary Care,Towson,Provider D,Follow-up,Returning,Medicaid,41,84,Completed,45,2.7
+APT100034,2025-09-28,Cardiology,Catonsville,Provider H,Urgent Care,Returning,Medicare,16,20,Completed,15,4.5
+APT100077,2025-09-28,Cardiology,Columbia,Provider F,Urgent Care,Returning,Commercial,46,85,Completed,30,2.0
+APT100409,2025-09-28,Neurology,Columbia,Provider B,Telehealth,Returning,Commercial,53,5,Completed,45,5.0
+APT100456,2025-09-29,Primary Care,Towson,Provider D,Telehealth,Returning,Self-Pay,60,60,Completed,30,3.6
+APT100685,2025-09-29,Dermatology,Towson,Provider F,Telehealth,New,Medicare,19,16,Completed,30,5.0
+APT100368,2025-09-30,Dermatology,Baltimore,Provider H,New Patient,Returning,Commercial,26,66,Completed,30,3.3
+APT100561,2025-09-30,Primary Care,Catonsville,Provider D,New Patient,New,Medicare,45,46,Completed,30,5.0
+APT100812,2025-09-30,Cardiology,Columbia,Provider H,New Patient,Returning,Commercial,2,40,Completed,30,4.3
+APT100910,2025-09-30,Primary Care,Catonsville,Provider C,Follow-up,New,Medicaid,13,19,Completed,30,4.6
+APT101016,2025-09-30,Primary Care,Catonsville,Provider I,Follow-up,Returning,Commercial,33,23,Completed,30,5.0
+APT100048,2025-10-01,Primary Care,Towson,Provider C,Urgent Care,Returning,Medicare,55,0,No-show,30,
+APT100901,2025-10-01,Neurology,Columbia,Provider B,Urgent Care,New,Medicare,41,0,No-show,30,
+APT100435,2025-10-02,Dermatology,Towson,Provider B,Annual Checkup,Returning,Commercial,23,76,Completed,30,3.4
+APT100630,2025-10-02,Orthopedics,Columbia,Provider J,Urgent Care,Returning,Medicare,23,84,Completed,60,3.1
+APT100985,2025-10-02,Pediatrics,Towson,Provider B,Follow-up,Returning,Medicare,19,0,No-show,30,
+APT100023,2025-10-04,Dermatology,Baltimore,Provider I,Follow-up,Returning,Commercial,28,56,Completed,45,4.2
+APT100301,2025-10-04,Neurology,Columbia,Provider J,Urgent Care,Returning,Commercial,42,30,Completed,60,4.0
+APT100319,2025-10-04,Neurology,Towson,Provider B,New Patient,Returning,Commercial,18,54,Completed,45,3.4
+APT100538,2025-10-04,Dermatology,Baltimore,Provider F,Telehealth,New,Commercial,15,58,Completed,45,3.4
+APT100842,2025-10-04,Neurology,Towson,Provider A,Follow-up,Returning,Commercial,19,0,Cancelled,30,
+APT100945,2025-10-04,Pediatrics,Towson,Provider H,Telehealth,New,Commercial,26,30,Completed,15,4.1
+APT100460,2025-10-05,Orthopedics,Catonsville,Provider F,Telehealth,Returning,Medicaid,54,0,Cancelled,45,
+APT100442,2025-10-06,Orthopedics,Towson,Provider A,Annual Checkup,Returning,Medicare,43,39,Completed,30,4.1
+APT100556,2025-10-06,Neurology,Catonsville,Provider J,New Patient,Returning,Commercial,33,23,Completed,30,4.6
+APT100087,2025-10-07,Primary Care,Catonsville,Provider I,Annual Checkup,Returning,Commercial,48,10,Completed,45,5.0
+APT100228,2025-10-07,Primary Care,Columbia,Provider H,Annual Checkup,Returning,Commercial,46,21,Completed,30,4.7
+APT100339,2025-10-07,Orthopedics,Towson,Provider F,Telehealth,Returning,Commercial,43,15,Completed,15,5.0
+APT100361,2025-10-07,Orthopedics,Columbia,Provider E,Annual Checkup,New,Medicare,3,0,Cancelled,30,
+APT100499,2025-10-07,Primary Care,Catonsville,Provider F,Follow-up,Returning,Medicaid,31,0,Cancelled,45,
+APT100354,2025-10-08,Pediatrics,Baltimore,Provider C,Follow-up,New,Medicare,54,56,Completed,30,3.7
+APT100832,2025-10-08,Neurology,Baltimore,Provider C,Urgent Care,Returning,Commercial,7,0,No-show,30,
+APT100731,2025-10-09,Pediatrics,Baltimore,Provider J,Follow-up,Returning,Medicaid,57,88,Completed,30,2.7
+APT100860,2025-10-09,Pediatrics,Columbia,Provider B,Follow-up,New,Commercial,36,73,Completed,15,3.4
+APT100937,2025-10-09,Pediatrics,Baltimore,Provider E,Follow-up,New,Medicaid,54,25,Completed,30,3.4
+APT101118,2025-10-09,Dermatology,Columbia,Provider D,Urgent Care,Returning,Self-Pay,35,14,Completed,60,4.2
+APT100133,2025-10-10,Orthopedics,Towson,Provider J,Telehealth,Returning,Commercial,59,33,Completed,30,3.9
+APT100176,2025-10-10,Neurology,Catonsville,Provider F,New Patient,Returning,Commercial,20,72,Completed,45,2.5
+APT100316,2025-10-10,Orthopedics,Baltimore,Provider H,Follow-up,New,Medicaid,54,14,Completed,30,4.5
+APT100611,2025-10-10,Dermatology,Towson,Provider B,Annual Checkup,Returning,Medicaid,25,28,Completed,45,5.0
+APT100736,2025-10-10,Primary Care,Catonsville,Provider I,Telehealth,Returning,Self-Pay,38,44,Completed,30,4.3
+APT101120,2025-10-10,Orthopedics,Catonsville,Provider F,Urgent Care,Returning,Medicare,57,61,Completed,30,3.9
+APT100158,2025-10-11,Primary Care,Towson,Provider D,Follow-up,New,Commercial,3,0,Cancelled,30,
+APT100164,2025-10-11,Orthopedics,Towson,Provider B,Telehealth,Returning,Medicaid,50,0,Cancelled,30,
+APT100322,2025-10-11,Primary Care,Towson,Provider J,Annual Checkup,Returning,Commercial,50,58,Completed,45,3.4
+APT100573,2025-10-11,Primary Care,Columbia,Provider H,Urgent Care,Returning,Commercial,9,58,Completed,30,4.0
+APT100468,2025-10-12,Orthopedics,Catonsville,Provider C,Telehealth,Returning,Medicare,59,46,Completed,15,4.3
+APT100518,2025-10-12,Dermatology,Baltimore,Provider J,New Patient,New,Commercial,56,0,Cancelled,45,
+APT100808,2025-10-12,Neurology,Towson,Provider J,New Patient,New,Medicaid,36,81,Completed,45,2.9
+APT101197,2025-10-12,Primary Care,Baltimore,Provider H,New Patient,New,Self-Pay,19,0,Cancelled,30,
+APT100169,2025-10-13,Primary Care,Towson,Provider E,Telehealth,Returning,Medicare,60,6,Completed,30,4.6
+APT100320,2025-10-13,Primary Care,Towson,Provider H,Telehealth,Returning,Commercial,23,18,Completed,30,4.7
+APT100560,2025-10-13,Orthopedics,Catonsville,Provider I,Follow-up,New,Commercial,21,65,Completed,30,3.2
+APT100717,2025-10-13,Pediatrics,Catonsville,Provider J,Follow-up,New,Commercial,58,0,Cancelled,30,
+APT100795,2025-10-13,Neurology,Catonsville,Provider A,Telehealth,Returning,Medicaid,54,0,Cancelled,30,
+APT101041,2025-10-13,Pediatrics,Columbia,Provider H,New Patient,Returning,Commercial,57,62,Completed,30,3.0
+APT101151,2025-10-14,Orthopedics,Towson,Provider J,Urgent Care,New,Commercial,11,76,Completed,30,2.7
+APT100363,2025-10-15,Primary Care,Baltimore,Provider C,New Patient,New,Medicare,24,84,Completed,30,3.1
+APT100392,2025-10-15,Primary Care,Columbia,Provider A,Urgent Care,Returning,Medicare,53,45,Completed,30,3.8
+APT100761,2025-10-15,Primary Care,Columbia,Provider B,Telehealth,Returning,Medicare,12,48,Completed,30,3.6
+APT101059,2025-10-15,Cardiology,Columbia,Provider D,Follow-up,Returning,Commercial,46,0,Cancelled,30,
+APT100106,2025-10-16,Primary Care,Catonsville,Provider H,Telehealth,New,Medicare,52,34,Completed,30,4.3
+APT100300,2025-10-16,Pediatrics,Towson,Provider G,Urgent Care,New,Medicare,43,10,Completed,30,5.0
+APT100479,2025-10-16,Primary Care,Columbia,Provider E,Follow-up,Returning,Medicare,38,83,Completed,60,2.8
+APT100723,2025-10-16,Orthopedics,Towson,Provider F,New Patient,Returning,Medicare,19,39,Completed,15,4.2
+APT100943,2025-10-16,Dermatology,Columbia,Provider I,Telehealth,Returning,Medicare,27,0,No-show,30,
+APT101081,2025-10-16,Pediatrics,Columbia,Provider G,New Patient,New,Commercial,1,0,Cancelled,45,
+APT101086,2025-10-16,Primary Care,Catonsville,Provider B,New Patient,Returning,Commercial,4,24,Completed,30,4.7
+APT100449,2025-10-17,Primary Care,Catonsville,Provider F,Urgent Care,New,Medicaid,38,0,Cancelled,30,
+APT100489,2025-10-17,Pediatrics,Catonsville,Provider B,Urgent Care,New,Self-Pay,25,0,Cancelled,30,
+APT101042,2025-10-18,Neurology,Catonsville,Provider J,Follow-up,Returning,Commercial,13,48,Completed,30,2.8
+APT101175,2025-10-18,Dermatology,Columbia,Provider E,Telehealth,New,Commercial,13,0,Cancelled,30,
+APT100627,2025-10-19,Neurology,Catonsville,Provider A,Telehealth,Returning,Medicare,30,52,Completed,30,4.2
+APT100874,2025-10-19,Dermatology,Columbia,Provider E,Follow-up,New,Commercial,36,35,Completed,30,4.3
+APT101117,2025-10-19,Pediatrics,Columbia,Provider F,Urgent Care,New,Medicaid,27,0,Cancelled,15,
+APT100119,2025-10-20,Primary Care,Towson,Provider G,Follow-up,New,Medicaid,50,0,No-show,15,
+APT100997,2025-10-20,Primary Care,Catonsville,Provider E,New Patient,Returning,Commercial,51,82,Completed,30,2.7
+APT101146,2025-10-20,Primary Care,Catonsville,Provider I,New Patient,New,Commercial,53,0,No-show,30,
+APT100021,2025-10-21,Orthopedics,Columbia,Provider D,Follow-up,New,Commercial,26,70,Completed,30,2.9
+APT100227,2025-10-21,Primary Care,Catonsville,Provider J,Follow-up,New,Medicare,53,0,Cancelled,30,
+APT100791,2025-10-21,Orthopedics,Catonsville,Provider A,New Patient,New,Medicare,50,51,Completed,15,3.5
+APT100902,2025-10-21,Orthopedics,Towson,Provider B,Follow-up,Returning,Commercial,43,19,Completed,30,5.0
+APT101097,2025-10-21,Primary Care,Columbia,Provider E,Urgent Care,Returning,Medicare,57,87,Completed,15,2.5
+APT101181,2025-10-21,Neurology,Towson,Provider D,Telehealth,Returning,Medicaid,13,6,Completed,45,4.9
+APT100200,2025-10-22,Cardiology,Baltimore,Provider C,Telehealth,New,Commercial,1,0,No-show,45,
+APT101056,2025-10-22,Orthopedics,Towson,Provider H,Urgent Care,Returning,Self-Pay,19,57,Completed,30,3.7
+APT100081,2025-10-23,Neurology,Towson,Provider A,Follow-up,New,Self-Pay,59,31,Completed,30,5.0
+APT101030,2025-10-23,Orthopedics,Baltimore,Provider A,Telehealth,New,Commercial,55,77,Completed,60,3.5
+APT101054,2025-10-23,Primary Care,Columbia,Provider D,Follow-up,New,Commercial,55,23,Completed,45,4.0
+APT101154,2025-10-23,Primary Care,Towson,Provider A,Telehealth,Returning,Commercial,4,68,Completed,60,3.6
+APT101155,2025-10-24,Orthopedics,Towson,Provider I,Follow-up,Returning,Medicaid,25,0,Cancelled,60,
+APT100256,2025-10-25,Primary Care,Baltimore,Provider J,Follow-up,New,Medicaid,48,27,Completed,45,4.5
+APT100370,2025-10-26,Neurology,Baltimore,Provider E,Follow-up,Returning,Medicare,55,0,Cancelled,60,
+APT101119,2025-10-26,Pediatrics,Columbia,Provider B,Telehealth,New,Medicare,26,0,No-show,45,
+APT100914,2025-10-27,Primary Care,Baltimore,Provider E,Follow-up,Returning,Commercial,14,19,Completed,30,4.0
+APT100980,2025-10-27,Cardiology,Columbia,Provider J,Follow-up,New,Medicare,6,0,Cancelled,60,
+APT100094,2025-10-28,Dermatology,Towson,Provider A,Follow-up,Returning,Commercial,1,74,Completed,45,3.4
+APT100625,2025-10-28,Neurology,Baltimore,Provider C,Telehealth,Returning,Commercial,38,89,Completed,30,3.1
+APT100858,2025-10-28,Primary Care,Baltimore,Provider A,New Patient,Returning,Commercial,18,24,Completed,15,4.0
+APT100341,2025-10-29,Neurology,Columbia,Provider I,Follow-up,Returning,Medicaid,19,72,Completed,45,3.7
+APT100521,2025-10-29,Neurology,Baltimore,Provider E,New Patient,Returning,Commercial,7,0,Cancelled,15,
+APT101133,2025-10-29,Primary Care,Columbia,Provider G,Urgent Care,New,Medicare,2,48,Completed,45,4.2
+APT101159,2025-10-29,Primary Care,Catonsville,Provider E,Telehealth,Returning,Commercial,50,0,No-show,60,
+APT100662,2025-10-30,Dermatology,Columbia,Provider H,Annual Checkup,Returning,Medicare,32,0,No-show,30,
+APT100714,2025-10-30,Neurology,Towson,Provider J,Follow-up,New,Commercial,54,41,Completed,30,4.5
+APT100781,2025-10-30,Dermatology,Catonsville,Provider B,Follow-up,Returning,Medicare,56,39,Completed,30,4.2
+APT100882,2025-10-30,Primary Care,Baltimore,Provider C,Annual Checkup,Returning,Medicare,18,41,Completed,30,4.3
+APT101099,2025-10-30,Dermatology,Catonsville,Provider C,Follow-up,Returning,Commercial,23,26,Completed,45,3.2
+APT101131,2025-10-30,Primary Care,Columbia,Provider H,New Patient,New,Commercial,59,0,Cancelled,15,
+APT100076,2025-10-31,Dermatology,Catonsville,Provider J,Follow-up,New,Medicare,50,0,No-show,30,
+APT100265,2025-10-31,Neurology,Towson,Provider B,Urgent Care,Returning,Medicare,16,11,Completed,15,5.0
+APT100274,2025-10-31,Dermatology,Catonsville,Provider I,Follow-up,Returning,Commercial,26,70,Completed,30,2.5
+APT100302,2025-10-31,Cardiology,Towson,Provider D,Follow-up,Returning,Commercial,13,0,Cancelled,15,
+APT100324,2025-10-31,Orthopedics,Towson,Provider C,Urgent Care,Returning,Commercial,11,0,Cancelled,45,
+APT100405,2025-11-01,Orthopedics,Towson,Provider J,Follow-up,New,Medicaid,23,23,Completed,30,4.7
+APT100675,2025-11-01,Primary Care,Columbia,Provider H,New Patient,Returning,Medicare,16,34,Completed,30,4.7
+APT101021,2025-11-01,Orthopedics,Towson,Provider C,New Patient,Returning,Commercial,18,71,Completed,30,3.4
+APT100378,2025-11-02,Pediatrics,Baltimore,Provider B,Follow-up,New,Medicare,18,8,Completed,30,4.8
+APT100772,2025-11-02,Pediatrics,Columbia,Provider A,Follow-up,Returning,Commercial,41,53,Completed,30,3.9
+APT100792,2025-11-02,Cardiology,Baltimore,Provider G,Urgent Care,New,Medicaid,45,0,Cancelled,30,
+APT100043,2025-11-03,Primary Care,Catonsville,Provider F,New Patient,Returning,Commercial,28,13,Completed,30,4.9
+APT100187,2025-11-03,Neurology,Baltimore,Provider I,Urgent Care,Returning,Medicare,42,52,Completed,30,4.5
+APT100248,2025-11-04,Primary Care,Catonsville,Provider C,Follow-up,Returning,Commercial,11,5,Completed,15,5.0
+APT100425,2025-11-04,Primary Care,Catonsville,Provider D,Follow-up,Returning,Self-Pay,26,0,No-show,30,
+APT100798,2025-11-04,Primary Care,Baltimore,Provider J,Urgent Care,Returning,Commercial,13,16,Completed,45,5.0
+APT100018,2025-11-05,Dermatology,Columbia,Provider I,Follow-up,Returning,Self-Pay,11,44,Completed,15,3.4
+APT101069,2025-11-05,Cardiology,Baltimore,Provider C,Annual Checkup,Returning,Commercial,44,30,Completed,30,4.3
+APT101169,2025-11-05,Primary Care,Catonsville,Provider G,Follow-up,Returning,Commercial,22,0,Cancelled,60,
+APT100068,2025-11-06,Cardiology,Towson,Provider F,Annual Checkup,New,Medicare,26,77,Completed,15,2.5
+APT100294,2025-11-06,Primary Care,Baltimore,Provider G,Follow-up,New,Commercial,16,78,Completed,30,2.8
+APT100424,2025-11-07,Dermatology,Baltimore,Provider J,New Patient,New,Commercial,58,65,Completed,30,3.4
+APT100741,2025-11-07,Primary Care,Catonsville,Provider D,Telehealth,Returning,Commercial,53,0,No-show,30,
+APT100956,2025-11-07,Primary Care,Columbia,Provider D,New Patient,New,Commercial,22,0,Cancelled,30,
+APT100653,2025-11-08,Primary Care,Baltimore,Provider E,Follow-up,Returning,Commercial,32,68,Completed,60,3.4
+APT100716,2025-11-08,Primary Care,Columbia,Provider J,New Patient,Returning,Medicaid,3,22,Completed,30,4.6
+APT100894,2025-11-08,Dermatology,Catonsville,Provider H,New Patient,New,Commercial,31,0,No-show,60,
+APT100381,2025-11-09,Neurology,Columbia,Provider J,Telehealth,Returning,Commercial,3,55,Completed,30,4.0
+APT100778,2025-11-09,Pediatrics,Towson,Provider J,Telehealth,Returning,Commercial,36,0,Cancelled,30,
+APT101164,2025-11-09,Primary Care,Towson,Provider G,Telehealth,Returning,Medicare,53,17,Completed,15,3.9
+APT101172,2025-11-09,Primary Care,Towson,Provider H,Follow-up,New,Commercial,41,0,Cancelled,45,
+APT100025,2025-11-10,Cardiology,Baltimore,Provider F,Telehealth,New,Medicaid,29,8,Completed,30,4.7
+APT100402,2025-11-10,Orthopedics,Catonsville,Provider F,Telehealth,Returning,Commercial,47,32,Completed,60,4.8
+APT100534,2025-11-10,Dermatology,Baltimore,Provider B,Telehealth,New,Medicare,5,80,Completed,30,3.0
+APT100191,2025-11-11,Primary Care,Columbia,Provider C,Urgent Care,New,Commercial,11,0,Cancelled,30,
+APT100735,2025-11-11,Primary Care,Catonsville,Provider C,Follow-up,New,Medicaid,47,62,Completed,15,3.7
+APT100940,2025-11-11,Neurology,Catonsville,Provider H,Annual Checkup,New,Commercial,31,0,No-show,30,
+APT100050,2025-11-12,Primary Care,Towson,Provider A,Annual Checkup,Returning,Medicare,58,0,Cancelled,30,
+APT100380,2025-11-12,Primary Care,Columbia,Provider A,Urgent Care,Returning,Medicare,52,36,Completed,30,3.5
+APT100695,2025-11-12,Cardiology,Baltimore,Provider C,Telehealth,New,Commercial,45,0,No-show,30,
+APT101040,2025-11-12,Pediatrics,Columbia,Provider C,Follow-up,Returning,Commercial,51,48,Completed,30,3.9
+APT101141,2025-11-12,Primary Care,Columbia,Provider E,Telehealth,New,Medicaid,34,80,Completed,30,2.8
+APT100323,2025-11-13,Cardiology,Columbia,Provider D,Telehealth,Returning,Commercial,50,0,Cancelled,30,
+APT100647,2025-11-13,Cardiology,Baltimore,Provider F,Telehealth,Returning,Medicare,26,23,Completed,30,4.8
+APT100661,2025-11-13,Dermatology,Baltimore,Provider J,Follow-up,Returning,Medicaid,8,8,Completed,30,5.0
+APT100846,2025-11-13,Neurology,Columbia,Provider D,Follow-up,New,Medicare,10,0,Cancelled,15,
+APT100184,2025-11-14,Neurology,Baltimore,Provider C,Follow-up,New,Self-Pay,50,0,No-show,30,
+APT100197,2025-11-14,Cardiology,Baltimore,Provider J,New Patient,Returning,Medicare,16,76,Completed,30,3.3
+APT100441,2025-11-14,Pediatrics,Towson,Provider I,New Patient,Returning,Medicare,37,10,Completed,30,4.8
+APT100952,2025-11-14,Orthopedics,Towson,Provider H,New Patient,New,Commercial,19,67,Completed,30,3.3
+APT101023,2025-11-14,Primary Care,Towson,Provider G,New Patient,Returning,Self-Pay,18,14,Completed,45,4.2
+APT100434,2025-11-15,Primary Care,Towson,Provider A,Urgent Care,Returning,Medicare,3,84,Completed,30,3.3
+APT100869,2025-11-15,Pediatrics,Baltimore,Provider G,Follow-up,New,Commercial,23,30,Completed,45,4.7
+APT101013,2025-11-15,Neurology,Columbia,Provider E,Follow-up,Returning,Commercial,41,64,Completed,30,3.3
+APT101166,2025-11-15,Orthopedics,Towson,Provider C,New Patient,Returning,Commercial,1,39,Completed,60,3.9
+APT100041,2025-11-16,Primary Care,Catonsville,Provider E,Urgent Care,Returning,Medicare,59,0,No-show,30,
+APT100938,2025-11-16,Dermatology,Baltimore,Provider C,Follow-up,Returning,Commercial,10,74,Completed,30,3.5
+APT100995,2025-11-16,Orthopedics,Baltimore,Provider E,Annual Checkup,Returning,Commercial,31,23,Completed,30,4.3
+APT101031,2025-11-16,Orthopedics,Baltimore,Provider B,Telehealth,Returning,Self-Pay,43,61,Completed,45,3.8
+APT101033,2025-11-16,Dermatology,Towson,Provider B,New Patient,Returning,Medicare,57,0,No-show,45,
+APT100385,2025-11-17,Cardiology,Catonsville,Provider D,Urgent Care,Returning,Commercial,10,0,Cancelled,15,
+APT100620,2025-11-17,Pediatrics,Columbia,Provider I,Telehealth,New,Self-Pay,29,65,Completed,45,3.7
+APT101012,2025-11-17,Orthopedics,Columbia,Provider E,Telehealth,Returning,Commercial,36,38,Completed,45,3.6
+APT100391,2025-11-18,Neurology,Columbia,Provider A,Annual Checkup,Returning,Self-Pay,28,23,Completed,45,4.7
+APT100966,2025-11-18,Orthopedics,Baltimore,Provider E,Telehealth,Returning,Commercial,55,63,Completed,30,3.1
+APT101090,2025-11-18,Primary Care,Catonsville,Provider B,Telehealth,Returning,Self-Pay,52,0,No-show,30,
+APT100351,2025-11-19,Primary Care,Towson,Provider F,Telehealth,New,Medicare,31,9,Completed,60,4.3
+APT100358,2025-11-19,Neurology,Catonsville,Provider G,New Patient,Returning,Medicare,36,72,Completed,30,2.8
+APT100512,2025-11-19,Pediatrics,Baltimore,Provider H,Follow-up,Returning,Medicaid,13,0,No-show,30,
+APT100222,2025-11-20,Neurology,Columbia,Provider D,Follow-up,Returning,Self-Pay,32,7,Completed,30,5.0
+APT100984,2025-11-20,Orthopedics,Catonsville,Provider C,Annual Checkup,Returning,Commercial,59,26,Completed,30,4.4
+APT101110,2025-11-20,Dermatology,Towson,Provider J,Follow-up,Returning,Medicaid,37,0,No-show,30,
+APT101144,2025-11-20,Dermatology,Columbia,Provider I,New Patient,Returning,Commercial,42,0,Cancelled,30,
+APT100229,2025-11-21,Cardiology,Columbia,Provider B,Telehealth,New,Commercial,21,69,Completed,15,3.3
+APT100487,2025-11-21,Primary Care,Columbia,Provider H,Annual Checkup,New,Self-Pay,16,57,Completed,45,3.6
+APT100496,2025-11-21,Pediatrics,Baltimore,Provider D,Annual Checkup,Returning,Commercial,24,28,Completed,45,4.6
+APT100238,2025-11-22,Pediatrics,Columbia,Provider I,Follow-up,Returning,Medicaid,31,76,Completed,30,3.1
+APT100408,2025-11-22,Primary Care,Columbia,Provider A,Annual Checkup,New,Medicaid,35,10,Completed,30,5.0
+APT100848,2025-11-22,Dermatology,Catonsville,Provider C,Annual Checkup,Returning,Commercial,37,15,Completed,45,4.7
+APT100982,2025-11-22,Primary Care,Columbia,Provider I,Follow-up,Returning,Medicaid,21,76,Completed,30,3.4
+APT100097,2025-11-23,Primary Care,Baltimore,Provider G,Follow-up,Returning,Medicare,13,28,Completed,60,4.2
+APT100154,2025-11-23,Pediatrics,Columbia,Provider J,Urgent Care,Returning,Commercial,1,68,Completed,45,2.9
+APT100623,2025-11-23,Primary Care,Columbia,Provider H,Telehealth,New,Commercial,60,0,Cancelled,45,
+APT100113,2025-11-24,Primary Care,Catonsville,Provider D,Follow-up,Returning,Medicare,32,0,No-show,30,
+APT101035,2025-11-24,Orthopedics,Catonsville,Provider G,Annual Checkup,New,Medicaid,17,5,Completed,45,4.5
+APT101055,2025-11-24,Pediatrics,Towson,Provider H,Follow-up,Returning,Commercial,10,63,Completed,30,3.6
+APT101147,2025-11-24,Orthopedics,Baltimore,Provider B,Telehealth,New,Medicaid,35,28,Completed,45,4.4
+APT100046,2025-11-25,Primary Care,Towson,Provider D,Urgent Care,Returning,Commercial,3,25,Completed,30,5.0
+APT101015,2025-11-25,Neurology,Catonsville,Provider I,Urgent Care,New,Medicare,38,76,Completed,60,3.3
+APT100515,2025-11-26,Dermatology,Towson,Provider A,Annual Checkup,Returning,Commercial,33,0,No-show,30,
+APT100683,2025-11-26,Cardiology,Catonsville,Provider A,Telehealth,Returning,Medicare,33,0,No-show,45,
+APT100811,2025-11-26,Primary Care,Columbia,Provider I,Telehealth,Returning,Medicaid,52,19,Completed,30,4.6
+APT101094,2025-11-26,Pediatrics,Catonsville,Provider H,Telehealth,New,Medicare,6,58,Completed,30,3.4
+APT101125,2025-11-26,Pediatrics,Catonsville,Provider B,New Patient,Returning,Self-Pay,18,83,Completed,30,2.1
+APT100011,2025-11-27,Primary Care,Columbia,Provider G,Annual Checkup,Returning,Self-Pay,7,72,Completed,60,3.6
+APT100170,2025-11-27,Dermatology,Baltimore,Provider F,New Patient,Returning,Commercial,46,54,Completed,30,3.8
+APT100598,2025-11-27,Orthopedics,Towson,Provider C,Telehealth,New,Commercial,47,71,Completed,15,3.5
+APT100951,2025-11-27,Primary Care,Towson,Provider B,Follow-up,Returning,Medicaid,60,21,Completed,15,4.4
+APT101111,2025-11-28,Primary Care,Towson,Provider G,Telehealth,Returning,Medicare,31,85,Completed,30,3.1
+APT101000,2025-11-29,Primary Care,Catonsville,Provider F,Follow-up,New,Medicare,41,30,Completed,15,4.8
+APT101025,2025-11-30,Neurology,Catonsville,Provider A,Follow-up,Returning,Commercial,16,15,Completed,30,5.0
+APT100796,2025-12-01,Primary Care,Columbia,Provider C,New Patient,Returning,Medicare,10,0,Cancelled,45,
+APT100801,2025-12-01,Dermatology,Baltimore,Provider E,Follow-up,Returning,Medicaid,34,68,Completed,45,3.7
+APT100970,2025-12-01,Primary Care,Baltimore,Provider H,Telehealth,New,Commercial,8,0,Cancelled,30,
+APT100976,2025-12-01,Neurology,Columbia,Provider C,Telehealth,Returning,Commercial,26,57,Completed,30,2.9
+APT100500,2025-12-02,Primary Care,Columbia,Provider G,Annual Checkup,New,Commercial,13,58,Completed,30,3.2
+APT100827,2025-12-02,Primary Care,Towson,Provider C,Urgent Care,New,Medicare,53,25,Completed,30,5.0
+APT100526,2025-12-03,Primary Care,Columbia,Provider A,Telehealth,Returning,Medicare,30,0,Cancelled,15,
+APT100872,2025-12-03,Primary Care,Columbia,Provider A,New Patient,Returning,Commercial,3,0,Cancelled,30,
+APT100085,2025-12-04,Dermatology,Columbia,Provider E,New Patient,Returning,Medicaid,47,73,Completed,30,2.8
+APT100251,2025-12-04,Neurology,Towson,Provider E,Telehealth,Returning,Commercial,41,12,Completed,60,4.3
+APT100292,2025-12-04,Dermatology,Catonsville,Provider G,Follow-up,Returning,Medicare,11,55,Completed,45,3.6
+APT100794,2025-12-04,Orthopedics,Catonsville,Provider J,New Patient,Returning,Self-Pay,27,59,Completed,30,4.0
+APT100577,2025-12-05,Primary Care,Towson,Provider I,Follow-up,Returning,Commercial,26,49,Completed,45,2.6
+APT100617,2025-12-05,Pediatrics,Towson,Provider G,Urgent Care,Returning,Commercial,42,18,Completed,30,4.5
+APT101046,2025-12-05,Dermatology,Columbia,Provider F,Follow-up,Returning,Commercial,29,8,Completed,60,5.0
+APT100056,2025-12-06,Primary Care,Baltimore,Provider J,Urgent Care,Returning,Self-Pay,48,29,Completed,30,4.9
+APT100168,2025-12-06,Neurology,Baltimore,Provider E,Annual Checkup,Returning,Medicare,17,15,Completed,30,5.0
+APT100285,2025-12-06,Pediatrics,Towson,Provider H,New Patient,New,Medicare,2,0,No-show,45,
+APT100504,2025-12-06,Orthopedics,Catonsville,Provider F,Telehealth,Returning,Medicaid,52,0,No-show,30,
+APT100813,2025-12-06,Primary Care,Catonsville,Provider H,Annual Checkup,Returning,Commercial,32,0,No-show,30,
+APT100476,2025-12-07,Pediatrics,Catonsville,Provider A,Urgent Care,New,Commercial,12,69,Completed,30,4.3
+APT100730,2025-12-07,Dermatology,Catonsville,Provider E,Follow-up,New,Medicare,18,0,Cancelled,45,
+APT100784,2025-12-07,Neurology,Baltimore,Provider A,Follow-up,Returning,Self-Pay,3,49,Completed,30,3.9
+APT100364,2025-12-08,Cardiology,Catonsville,Provider I,Annual Checkup,New,Medicare,55,65,Completed,30,4.0
+APT100394,2025-12-08,Primary Care,Catonsville,Provider C,Follow-up,Returning,Commercial,51,51,Completed,30,3.9
+APT100404,2025-12-08,Neurology,Catonsville,Provider G,Follow-up,New,Medicaid,56,30,Completed,30,4.4
+APT100565,2025-12-08,Pediatrics,Catonsville,Provider C,Follow-up,Returning,Commercial,23,0,Cancelled,30,
+APT100621,2025-12-08,Cardiology,Columbia,Provider E,Annual Checkup,Returning,Self-Pay,6,8,Completed,15,4.8
+APT100734,2025-12-08,Neurology,Catonsville,Provider G,New Patient,Returning,Commercial,16,74,Completed,60,2.8
+APT100211,2025-12-09,Neurology,Towson,Provider A,Annual Checkup,Returning,Commercial,51,50,Completed,30,3.9
+APT100020,2025-12-10,Primary Care,Columbia,Provider E,Annual Checkup,Returning,Medicare,45,21,Completed,30,4.7
+APT100099,2025-12-10,Primary Care,Columbia,Provider I,Annual Checkup,New,Commercial,56,0,Cancelled,30,
+APT101194,2025-12-10,Neurology,Catonsville,Provider F,New Patient,Returning,Commercial,15,0,Cancelled,30,
+APT100029,2025-12-11,Neurology,Catonsville,Provider A,Annual Checkup,Returning,Commercial,49,15,Completed,45,5.0
+APT100096,2025-12-11,Primary Care,Towson,Provider J,Follow-up,New,Commercial,6,84,Completed,60,2.9
+APT100054,2025-12-12,Cardiology,Catonsville,Provider E,Telehealth,Returning,Medicare,24,69,Completed,45,3.3
+APT100136,2025-12-12,Primary Care,Towson,Provider I,Telehealth,New,Self-Pay,37,30,Completed,45,4.7
+APT100243,2025-12-12,Cardiology,Catonsville,Provider C,Annual Checkup,Returning,Commercial,54,36,Completed,30,4.1
+APT100261,2025-12-12,Primary Care,Catonsville,Provider E,Telehealth,Returning,Medicaid,49,0,Cancelled,15,
+APT100438,2025-12-12,Neurology,Columbia,Provider H,Follow-up,Returning,Commercial,23,36,Completed,30,4.0
+APT100636,2025-12-12,Pediatrics,Towson,Provider C,Annual Checkup,Returning,Medicaid,8,75,Completed,30,2.8
+APT100853,2025-12-12,Cardiology,Baltimore,Provider G,Telehealth,New,Medicare,45,73,Completed,30,3.1
+APT101132,2025-12-12,Neurology,Baltimore,Provider C,Follow-up,Returning,Medicare,60,0,No-show,30,
+APT101161,2025-12-12,Primary Care,Catonsville,Provider I,New Patient,New,Commercial,4,6,Completed,45,3.8
+APT100797,2025-12-13,Cardiology,Catonsville,Provider G,Follow-up,Returning,Commercial,25,0,Cancelled,30,
+APT101183,2025-12-13,Neurology,Catonsville,Provider H,Urgent Care,New,Commercial,54,68,Completed,30,3.3
+APT100172,2025-12-14,Neurology,Columbia,Provider F,Urgent Care,Returning,Commercial,17,0,Cancelled,30,
+APT100650,2025-12-14,Dermatology,Towson,Provider A,New Patient,Returning,Commercial,46,33,Completed,15,5.0
+APT100690,2025-12-14,Dermatology,Towson,Provider E,Follow-up,Returning,Commercial,9,68,Completed,30,4.1
+APT100763,2025-12-14,Primary Care,Columbia,Provider J,Telehealth,Returning,Commercial,3,0,No-show,45,
+APT100002,2025-12-15,Pediatrics,Columbia,Provider E,Telehealth,Returning,Medicaid,38,81,Completed,30,2.5
+APT100239,2025-12-15,Primary Care,Columbia,Provider F,Annual Checkup,New,Commercial,11,80,Completed,30,2.9
+APT100291,2025-12-15,Orthopedics,Columbia,Provider C,Follow-up,Returning,Commercial,13,52,Completed,45,2.8
+APT100340,2025-12-15,Pediatrics,Towson,Provider E,Follow-up,Returning,Commercial,16,43,Completed,30,4.4
+APT100461,2025-12-15,Primary Care,Catonsville,Provider C,Urgent Care,Returning,Medicare,19,21,Completed,60,4.2
+APT101034,2025-12-15,Neurology,Columbia,Provider A,Annual Checkup,Returning,Medicaid,7,75,Completed,30,3.2
+APT100421,2025-12-16,Primary Care,Baltimore,Provider A,Follow-up,Returning,Commercial,33,0,Cancelled,30,
+APT100867,2025-12-16,Pediatrics,Towson,Provider J,Follow-up,New,Commercial,13,0,Cancelled,30,
+APT100950,2025-12-16,Dermatology,Baltimore,Provider B,Annual Checkup,Returning,Self-Pay,50,53,Completed,30,3.8
+APT100953,2025-12-16,Dermatology,Catonsville,Provider A,New Patient,Returning,Medicare,1,59,Completed,30,4.0
+APT100075,2025-12-17,Pediatrics,Baltimore,Provider J,Follow-up,Returning,Commercial,43,0,Cancelled,30,
+APT100744,2025-12-17,Dermatology,Columbia,Provider G,New Patient,Returning,Commercial,32,58,Completed,45,4.3
+APT100140,2025-12-18,Pediatrics,Columbia,Provider C,Follow-up,New,Medicare,49,7,Completed,45,4.7
+APT100246,2025-12-18,Dermatology,Baltimore,Provider G,Telehealth,New,Self-Pay,17,67,Completed,30,3.2
+APT100834,2025-12-18,Orthopedics,Baltimore,Provider H,New Patient,Returning,Commercial,24,58,Completed,30,3.3
+APT101062,2025-12-19,Primary Care,Towson,Provider G,Follow-up,Returning,Medicaid,13,0,Cancelled,45,
+APT101095,2025-12-19,Pediatrics,Catonsville,Provider J,Telehealth,New,Medicare,6,54,Completed,30,3.2
+APT100390,2025-12-20,Cardiology,Baltimore,Provider F,Telehealth,New,Medicare,58,57,Completed,45,3.7
+APT100377,2025-12-21,Primary Care,Towson,Provider J,Follow-up,Returning,Commercial,52,54,Completed,15,4.2
+APT100423,2025-12-21,Cardiology,Baltimore,Provider C,New Patient,Returning,Medicare,29,21,Completed,30,4.4
+APT100558,2025-12-21,Primary Care,Towson,Provider A,Telehealth,Returning,Medicare,20,15,Completed,45,4.4
+APT100878,2025-12-21,Pediatrics,Baltimore,Provider F,Follow-up,Returning,Medicare,3,39,Completed,15,4.2
+APT100999,2025-12-22,Neurology,Baltimore,Provider D,Telehealth,New,Commercial,50,16,Completed,45,4.3
+APT101143,2025-12-22,Dermatology,Baltimore,Provider B,Urgent Care,Returning,Medicare,7,0,No-show,60,
+APT100482,2025-12-23,Primary Care,Columbia,Provider A,New Patient,New,Commercial,33,56,Completed,60,3.1
+APT100541,2025-12-23,Primary Care,Towson,Provider G,Annual Checkup,New,Commercial,34,75,Completed,30,2.6
+APT100699,2025-12-23,Primary Care,Baltimore,Provider A,Urgent Care,Returning,Commercial,59,13,Completed,45,4.7
+APT100686,2025-12-24,Primary Care,Baltimore,Provider E,Follow-up,Returning,Commercial,21,0,Cancelled,30,
+APT100746,2025-12-24,Primary Care,Columbia,Provider E,New Patient,Returning,Commercial,22,57,Completed,15,3.2
+APT100132,2025-12-25,Neurology,Catonsville,Provider A,Follow-up,Returning,Medicaid,13,34,Completed,30,3.5
+APT100181,2025-12-25,Pediatrics,Towson,Provider F,Urgent Care,Returning,Commercial,50,0,Cancelled,30,
+APT100014,2025-12-26,Neurology,Towson,Provider B,Annual Checkup,Returning,Commercial,57,12,Completed,30,4.3
+APT100063,2025-12-26,Primary Care,Columbia,Provider D,Telehealth,Returning,Medicare,38,19,Completed,30,4.2
+APT100122,2025-12-26,Pediatrics,Columbia,Provider J,New Patient,New,Medicare,21,75,Completed,30,3.1
+APT100252,2025-12-26,Pediatrics,Towson,Provider C,Follow-up,Returning,Medicaid,38,72,Completed,30,3.2
+APT100359,2025-12-26,Orthopedics,Columbia,Provider J,New Patient,Returning,Commercial,59,0,Cancelled,15,
+APT100830,2025-12-26,Orthopedics,Towson,Provider H,Annual Checkup,Returning,Medicaid,41,69,Completed,45,3.5
+APT101126,2025-12-26,Pediatrics,Baltimore,Provider G,Urgent Care,Returning,Medicaid,33,90,Completed,60,2.7
+APT100559,2025-12-27,Pediatrics,Catonsville,Provider F,Telehealth,New,Commercial,16,0,No-show,60,
+APT100648,2025-12-27,Pediatrics,Towson,Provider I,Follow-up,Returning,Commercial,32,45,Completed,45,3.9
+APT101037,2025-12-27,Pediatrics,Catonsville,Provider F,Follow-up,Returning,Commercial,32,16,Completed,30,5.0
+APT100899,2025-12-29,Cardiology,Columbia,Provider A,New Patient,Returning,Commercial,15,42,Completed,30,4.1
+APT101134,2025-12-29,Dermatology,Columbia,Provider A,Follow-up,New,Medicaid,33,0,Cancelled,45,
+APT100038,2025-12-30,Pediatrics,Towson,Provider B,Follow-up,Returning,Commercial,60,31,Completed,30,4.4
+APT100631,2025-12-30,Pediatrics,Towson,Provider B,Follow-up,New,Commercial,51,0,Cancelled,60,
+APT101186,2025-12-30,Primary Care,Towson,Provider F,Urgent Care,Returning,Commercial,7,32,Completed,30,4.5
+APT100313,2025-12-31,Pediatrics,Columbia,Provider E,Telehealth,New,Medicare,9,72,Completed,30,3.6
+APT100420,2025-12-31,Pediatrics,Baltimore,Provider G,New Patient,New,Medicare,25,16,Completed,15,4.8
+APT100619,2025-12-31,Primary Care,Columbia,Provider A,Follow-up,Returning,Medicare,42,0,Cancelled,30,
+APT100720,2025-12-31,Neurology,Towson,Provider A,Annual Checkup,Returning,Commercial,5,72,Completed,30,2.9
+APT100890,2025-12-31,Pediatrics,Columbia,Provider J,Follow-up,Returning,Medicare,29,88,Completed,45,2.0
+APT100941,2025-12-31,Primary Care,Towson,Provider B,Urgent Care,Returning,Commercial,37,73,Completed,30,3.7
+APT101101,2025-12-31,Primary Care,Catonsville,Provider I,Telehealth,New,Commercial,16,43,Completed,30,4.3
