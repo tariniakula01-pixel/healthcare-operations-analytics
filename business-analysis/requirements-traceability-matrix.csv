@@ -1,18 +1,18 @@
 Business Requirement ID,Functional Requirement ID,User Story ID,KPI / Analysis,Dashboard Output,Status
-BR-001,FR-001,US-001,Total Appointment Volume,Executive KPI Card,Planned
-BR-002,FR-002,US-001,Completion Rate,Executive KPI Card,Planned
-BR-002,FR-003,US-002,Cancellation Rate,Executive KPI Card and Trend,Planned
-BR-002,FR-003,US-002,No-Show Rate,Executive KPI Card and Trend,Planned
-BR-003,FR-004,US-002,Performance by Specialty,Specialty Performance Chart,Planned
-BR-003,FR-005,US-002,Performance by Location,Location Performance Chart,Planned
-BR-004,FR-006,US-004,Lead Time vs Missed Appointments,Lead-Time Analysis,Planned
-BR-005,FR-007,US-003,Average Wait Time,Wait-Time KPI,Planned
-BR-005,FR-008,US-003,Wait Time by Location and Specialty,Wait-Time Comparison Chart,Planned
-BR-006,FR-009,US-005,Provider Appointment Volume and Duration,Provider Workload Analysis,Planned
-BR-001,FR-010,US-006,Appointment Performance by Type,Appointment Type Analysis,Planned
-BR-001,FR-011,US-006,Appointment Trends Over Time,Trend Analysis,Planned
-BR-001,FR-012,US-001,Operational KPI Summary,Executive Dashboard,Planned
-BR-003,FR-013,US-002,Interactive Filtering,Dashboard Filters,Planned
-BR-008,FR-014,US-008,Data-Driven Improvement Opportunities,Recommendations Section,Planned
-BR-005,FR-007,US-007,Average Patient Satisfaction,Satisfaction Analysis,Planned
-BR-008,FR-014,US-007,Wait Time vs Satisfaction,Patient Experience Analysis,Planned
+BR-001,FR-001,US-001,Total Appointment Volume,Executive KPI Card,Complete
+BR-002,FR-002,US-001,Completion Rate,Executive KPI Card,Complete
+BR-002,FR-003,US-002,Cancellation Rate,Executive KPI Card and Trend,Complete
+BR-002,FR-003,US-002,No-Show Rate,Executive KPI Card and Trend,Complete
+BR-003,FR-004,US-002,Performance by Specialty,Specialty Performance Chart,Complete
+BR-003,FR-005,US-002,Performance by Location,Location Performance Chart,Complete
+BR-004,FR-006,US-004,Lead Time vs Missed Appointments,Lead-Time Analysis,Complete
+BR-005,FR-007,US-003,Average Wait Time,Wait-Time KPI,Complete
+BR-005,FR-008,US-003,Wait Time by Location and Specialty,Wait-Time Comparison Chart,Complete
+BR-006,FR-009,US-005,Provider Appointment Volume and Duration,Provider Workload Analysis,Complete
+BR-001,FR-010,US-006,Appointment Performance by Type,Appointment Type Analysis,Complete
+BR-001,FR-011,US-006,Appointment Trends Over Time,Trend Analysis,Complete
+BR-001,FR-012,US-001,Operational KPI Summary,Executive Dashboard,Complete
+BR-003,FR-013,US-002,Interactive Filtering,Dashboard Filters,Complete
+BR-008,FR-014,US-008,Data-Driven Improvement Opportunities,Recommendations Section,Complete
+BR-005,FR-007,US-007,Average Patient Satisfaction,Satisfaction Analysis,Complete
+BR-008,FR-014,US-007,Wait Time vs Satisfaction,Patient Experience Analysis,Complete
